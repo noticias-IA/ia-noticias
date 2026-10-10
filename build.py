@@ -82,10 +82,40 @@ def recolectar(vistos):
     out.sort(key=lambda a: a["fecha"], reverse=True)
     return out[:MAX_NEW_PER_RUN]
 
+import urllib.request, urllib.error, time
+GEMINI_MODELS = [m.strip() for m in os.environ.get("GEMINI_MODEL", "").split(",") if m.strip()] or \
+    ["gemini-flash-latest", "gemini-2.5-flash-lite", "gemini-2.5-flash"]
+_ok = {}
+
+def llamar_gemini(prompt):
+    clave = os.environ["GEMINI_API_KEY"]
+    ultimo = "sin respuesta"
+    for modelo in ([_ok["m"]] if "m" in _ok else GEMINI_MODELS):
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+        body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
+                           "generationConfig": {"responseMimeType": "application/json"}}).encode()
+        for _ in range(3):
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": clave})
+            try:
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    d = json.load(r)
+                _ok["m"] = modelo
+                time.sleep(6)  # respeta el límite por minuto del plan gratuito
+                return "".join(p.get("text", "") for p in d["candidates"][0]["content"]["parts"])
+            except urllib.error.HTTPError as ex:
+                ultimo = f"{modelo}: HTTP {ex.code} {ex.read()[:200]}"
+                if ex.code == 429:
+                    time.sleep(30); continue
+                break
+    raise RuntimeError(ultimo)
+
 def resumir(client, a):
-    msg = client.messages.create(model=MODEL, max_tokens=1500, messages=[{"role": "user", "content":
-        PROMPT.format(cats=", ".join(CATEGORIAS), fuente=a["fuente"], titulo=a["orig"], extracto=a["extracto"])}])
-    txt = "".join(b.text for b in msg.content if b.type == "text")
+    prompt = PROMPT.format(cats=", ".join(CATEGORIAS), fuente=a["fuente"], titulo=a["orig"], extracto=a["extracto"])
+    if client == "gemini":
+        txt = llamar_gemini(prompt)
+    else:
+        msg = client.messages.create(model=MODEL, max_tokens=1500, messages=[{"role": "user", "content": prompt}])
+        txt = "".join(b.text for b in msg.content if b.type == "text")
     m = re.search(r"\{.*\}", txt, re.S)
     d = json.loads(m.group(0))
     if d.get("skip"): return None
@@ -186,8 +216,13 @@ def sitio(arts):
 def main():
     arts = cargar()
     if "--solo-sitio" not in sys.argv:
-        import anthropic
-        client = anthropic.Anthropic()
+        if os.environ.get("ANTHROPIC_API_KEY"):
+            import anthropic
+            client = anthropic.Anthropic()
+        elif os.environ.get("GEMINI_API_KEY"):
+            client = "gemini"
+        else:
+            sys.exit("Falta la clave: cargá GEMINI_API_KEY o ANTHROPIC_API_KEY en los Secrets de GitHub.")
         for a in recolectar({x["id"] for x in arts}):
             try:
                 r = resumir(client, a)
