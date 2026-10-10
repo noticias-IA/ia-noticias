@@ -84,13 +84,14 @@ def recolectar(vistos):
 
 import urllib.request, urllib.error, time
 GEMINI_MODELS = [m.strip() for m in os.environ.get("GEMINI_MODEL", "").split(",") if m.strip()] or \
-    ["gemini-flash-latest", "gemini-2.5-flash-lite", "gemini-2.5-flash"]
+    ["gemini-flash-latest", "gemini-3.8-flash", "gemini-flash-lite-latest"]
 _ok = {}
 
 def llamar_gemini(prompt):
     clave = os.environ["GEMINI_API_KEY"]
     ultimo = "sin respuesta"
-    for modelo in ([_ok["m"]] if "m" in _ok else GEMINI_MODELS):
+    orden = ([_ok["m"]] if "m" in _ok else []) + [m for m in GEMINI_MODELS if m != _ok.get("m")]
+    for modelo in orden:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
         body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
                            "generationConfig": {"responseMimeType": "application/json"}}).encode()
@@ -104,8 +105,8 @@ def llamar_gemini(prompt):
                 return "".join(p.get("text", "") for p in d["candidates"][0]["content"]["parts"])
             except urllib.error.HTTPError as ex:
                 ultimo = f"{modelo}: HTTP {ex.code} {ex.read()[:200]}"
-                if ex.code == 429:
-                    time.sleep(30); continue
+                if ex.code in (429, 503):  # saturado o límite: esperar y reintentar
+                    time.sleep(25); continue
                 break
     raise RuntimeError(ultimo)
 
