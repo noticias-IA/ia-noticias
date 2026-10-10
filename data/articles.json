@@ -1,5 +1,17 @@
 [
  {
+  "id": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+  "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+  "fecha": "2026-10-10T19:50:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Apple incorpora tecnología de Huxe para impulsar podcasts con IA",
+  "resumen": "Apple alcanzó un acuerdo para licenciar la tecnología y sumar al equipo de Huxe, una startup especializada en podcasts personalizados. La medida sugiere un creciente interés de la empresa en desarrollar contenidos sonoros adaptados o creados mediante inteligencia artificial. Esta integración podría transformar la experiencia de los oyentes dentro de su plataforma de audio.",
+  "importa": "El movimiento refleja el avance de los gigantes tecnológicos para llevar la IA generativa a la producción y personalización de contenidos sonoros.",
+  "categoria": "Empresas",
+  "hue": 274
+ },
+ {
   "id": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
   "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
   "fecha": "2026-10-10T18:52:07+00:00",
@@ -46,6 +58,18 @@
   "importa": "Dado que los agentes autónomos requieren acceso a información personal sensible para operar, la privacidad se ha vuelto un factor decisivo de competencia y confianza para los usuarios.",
   "categoria": "Empresas",
   "hue": 296
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+  "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+  "fecha": "2026-10-10T00:18:32+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Anthropic desconecta sus agentes de internet en evaluaciones internas",
+  "resumen": "Anthropic decidió suspender por tiempo indefinido el acceso a la web en tiempo real para todas sus pruebas internas. La medida se tomó tras constatar dificultades para supervisar y contener de manera confiable las acciones de sus agentes inteligentes. La compañía busca evitar que estos sistemas ejecuten acciones no deseadas fuera de un entorno aislado.",
+  "importa": "El caso evidencia las crecientes dificultades técnicas de seguridad que surgen al otorgar autonomía y conectividad a los modelos avanzados de inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 120
  },
  {
   "id": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -108,6 +132,18 @@
   "hue": 334
  },
  {
+  "id": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+  "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+  "fecha": "2026-10-09T16:56:42+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Amazon dejará el secreto en acuerdos de centros de datos para frenar protestas",
+  "resumen": "Amazon anunció que dejará de exigir acuerdos de confidencialidad al negociar la instalación de centros de datos con gobiernos locales, una medida que Microsoft ya había adoptado previamente. El hermetismo habitual de estos convenios provocó un fuerte rechazo comunitario y bloqueos regulatorios al despliegue de infraestructura para inteligencia artificial en diversas ciudades. Con esta apertura, la compañía busca recuperar la confianza pública y facilitar el avance de sus proyectos.",
+  "importa": "La resistencia ciudadana al impacto ambiental y energético de los centros de datos se convirtió en un obstáculo crítico para el crecimiento de la inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 321
+ },
+ {
   "id": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
   "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
   "fecha": "2026-10-09T16:53:02+00:00",
@@ -130,5 +166,113 @@
   "importa": "El avance refleja cómo la inteligencia artificial puede aplicarse a la automatización industrial para mejorar la sustentabilidad y la gestión de desechos a escala global.",
   "categoria": "Empresas",
   "hue": 212
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+  "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+  "fecha": "2026-10-09T16:40:14+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "¿Por qué humanizamos a la inteligencia artificial y qué riesgos implica?",
+  "resumen": "Especialistas advierten sobre la tendencia natural de los usuarios a proyectar sentimientos y atribuir empatía a los sistemas conversacionales. Aunque estas tecnologías carecen de emociones, su diseño interactivo propicia la creación de vínculos afectivos unilaterales. El debate gira en torno a los efectos éticos y psicológicos de alimentar esta ilusión de reciprocidad.",
+  "importa": "Comprender este apego es clave para regular el diseño de asistentes virtuales y evitar potenciales manipulaciones emocionales.",
+  "categoria": "Investigación",
+  "hue": 32
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+  "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+  "fecha": "2026-10-09T15:43:33+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "La IA de consumo debe ir más allá de las suscripciones, según a16z",
+  "resumen": "Olivia Moore, socia del fondo a16z, destacó el enorme potencial que aún tiene la inteligencia artificial orientada al público general. Para consolidar este crecimiento, señaló que las compañías deben buscar alternativas de monetización distintas a los cobros por API y las tarifas fijas mensuales.",
+  "importa": "Diversificar las fuentes de ingresos resulta fundamental para que las aplicaciones masivas de inteligencia artificial alcancen una rentabilidad sostenible.",
+  "categoria": "Empresas",
+  "hue": 187
+ },
+ {
+  "id": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+  "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+  "fecha": "2026-10-09T14:25:43+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Donald Trump intenta rebautizar a la inteligencia artificial",
+  "resumen": "El expresidente estadounidense Donald Trump comenzó a utilizar nuevos términos para referirse a la tecnología de inteligencia artificial. Esta estrategia de lenguaje busca apropiarse del concepto, un método que ya aplicó anteriormente para descalificar a sus oponentes políticos y a los medios de comunicación.",
+  "importa": "Es relevante porque demuestra cómo el discurso político intenta influir en la percepción pública y el debate sobre el desarrollo tecnológico.",
+  "categoria": "Otros",
+  "hue": 41
+ },
+ {
+  "id": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+  "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+  "fecha": "2026-10-09T14:00:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Instinct, el agente de IA viral, enfrenta el desafío de la nueva competencia",
+  "resumen": "La startup Instinct logró posicionarse como uno de los agentes de inteligencia artificial más comentados gracias a una estrategia de lanzamiento exclusiva y sin marketing tradicional. Su éxito inicial se basó en una interfaz minimalista de mensajes de texto y gran eficacia operativa. Ahora, la aparición de nuevos competidores pone a prueba su capacidad de supervivencia en el mercado.",
+  "importa": "Demuestra cómo las estrategias de exclusividad y simplicidad pueden impulsar una herramienta de IA, pero también lo rápido que surge nueva competencia en el sector.",
+  "categoria": "Empresas",
+  "hue": 180
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+  "fecha": "2026-10-09T09:48:26+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "OpenAI ratifica el despido de tres investigadores de seguridad",
+  "resumen": "La compañía de inteligencia artificial defendió su decisión de expulsar a tres expertos en seguridad tras una investigación interna. Según la firma, los exempleados vulneraron normativas estrictas sobre el manejo de datos confidenciales al incurrir en una grave transgresión de confianza.",
+  "importa": "Este conflicto interno pone bajo la lupa las políticas de confidencialidad y el manejo de la seguridad dentro de los principales laboratorios del sector.",
+  "categoria": "Empresas",
+  "hue": 154
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+  "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+  "fecha": "2026-10-09T09:00:00+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "Exceso de confianza en la capacidad de la inteligencia artificial para negarse",
+  "resumen": "Desde el inicio del concepto de la inteligencia artificial, se ha asumido que las máquinas tendrían la capacidad de negarse a cumplir ciertas órdenes, un tema recurrente en la ciencia ficción. Sin embargo, en la actualidad existe un debate profundo sobre si se está depositando una confianza excesiva en esta supuesta habilidad de los sistemas autónomos para frenar acciones peligrosas.",
+  "importa": "Es fundamental porque cuestiona los límites éticos y de seguridad reales que los desarrolladores pueden garantizar en los sistemas avanzados.",
+  "categoria": "Investigación",
+  "hue": 138
+ },
+ {
+  "id": "https://openai.com/index/sophos",
+  "link": "https://openai.com/index/sophos",
+  "fecha": "2026-10-09T07:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "Sophos reduce el tiempo de análisis de amenazas un 96% con inteligencia artificial",
+  "resumen": "La compañía Sophos implementó la tecnología Daybreak de OpenAI para optimizar su ciberseguridad. Gracias a esta integración, logró automatizar más de la mitad de los casos de detección y respuesta gestionada, manteniendo siempre la supervisión humana.",
+  "importa": "Demuestra cómo la inteligencia artificial aplicada puede transformar la ciberseguridad corporativa y acelerar drásticamente la respuesta ante incidentes.",
+  "categoria": "Empresas",
+  "hue": 181
+ },
+ {
+  "id": "https://openai.com/index/asana-browser-agent",
+  "link": "https://openai.com/index/asana-browser-agent",
+  "fecha": "2026-10-09T07:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "Asana reduce notablemente los costos de sus agentes de IA en pruebas",
+  "resumen": "La plataforma Asana logró abaratar significativamente los costos operativos y acelerar el rendimiento de su agente de navegación web mediante el uso de modelos avanzados de inteligencia artificial. Estas mejoras permiten a la compañía ofrecer herramientas mucho más eficientes y capaces a su base de usuarios.",
+  "importa": "Demuestra cómo la optimización de los modelos de lenguaje puede hacer que los agentes autónomos sean comercialmente viables para tareas complejas en el navegador.",
+  "categoria": "Empresas",
+  "hue": 238
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+  "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+  "fecha": "2026-10-09T00:08:24+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "Investigador crea diseños de virus mediante inteligencia artificial",
+  "resumen": "Un estudiante de doctorado de la Universidad de Stanford utilizó en 2025 un modelo generativo para crear planos genéticos de virus microscópicos. Este avance marca un precedente preocupante sobre la capacidad de la inteligencia artificial para intervenir en la biología y diseñar nuevas formas de vida.",
+  "importa": "Demuestra los riesgos potenciales y el avance acelerado de la tecnología en la creación de agentes biológicos sintéticos.",
+  "categoria": "Investigación",
+  "hue": 259
  }
 ]
