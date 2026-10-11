@@ -1,5 +1,41 @@
 [
  {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+  "fecha": "2026-10-11T11:00:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Ejecutar inteligencia artificial de forma local: ventajas, desafíos y privacidad",
+  "resumen": "Cada vez es más viable prescindir de la nube y procesar modelos avanzados de IA directamente en equipos personales. Esta alternativa protege los datos del usuario frente a servicios externos, aunque todavía requiere sortear complicaciones técnicas y limitaciones de hardware. Adoptar este enfoque ofrece una experiencia potente pero demandante para el usuario común.",
+  "importa": "Demuestra que es posible aprovechar la inteligencia artificial sin ceder información confidencial a gigantes tecnológicos, impulsando una mayor soberanía digital.",
+  "categoria": "Herramientas",
+  "hue": 335
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "fecha": "2026-10-10T22:10:17+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Nadella advierte que se debe asumir que los modelos de IA están comprometidos",
+  "resumen": "El director ejecutivo de Microsoft, Satya Nadella, planteó que la industria no puede seguir tratando a la inteligencia artificial como un sistema opaco e incuestionable. Según el directivo, la postura más prudente ante modelos avanzados es considerar de antemano que sus respuestas podrían estar vulneradas o alteradas. A partir de este diagnóstico, remarcó la urgencia de establecer controles más estrictos para gestionar los riesgos.",
+  "importa": "Refleja un cambio de enfoque hacia la desconfianza técnica dentro de una de las corporaciones que lidera el despliegue global de esta tecnología.",
+  "categoria": "Empresas",
+  "hue": 241
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "fecha": "2026-10-10T21:47:51+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Satya Nadella pide un freno de emergencia para los modelos de IA",
+  "resumen": "El director ejecutivo de Microsoft propuso implementar mecanismos de detención inmediata para los sistemas avanzados de inteligencia artificial. Además, remarcó la necesidad de revisar y fortalecer los marcos de confianza que sostienen a estas tecnologías ante su acelerado avance.",
+  "importa": "La postura de uno de los principales impulsores del sector evidencia la urgencia de establecer mayores controles de seguridad en el desarrollo de la IA.",
+  "categoria": "Empresas",
+  "hue": 226
+ },
+ {
   "id": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
   "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
   "fecha": "2026-10-10T19:50:00+00:00",
@@ -190,6 +226,18 @@
   "importa": "Diversificar las fuentes de ingresos resulta fundamental para que las aplicaciones masivas de inteligencia artificial alcancen una rentabilidad sostenible.",
   "categoria": "Empresas",
   "hue": 187
+ },
+ {
+  "id": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "fecha": "2026-10-09T15:20:29+00:00",
+  "fuente": "Hugging Face",
+  "imagen": "",
+  "titulo": "Hugging Face propone nuevas estrategias para optimizar clústeres de GPU",
+  "resumen": "Hugging Face presentó nuevos enfoques para gestionar la asignación de tareas en centros de cómputo equipados con procesadores gráficos. El objetivo principal es maximizar la eficiencia durante el entrenamiento y la ejecución de modelos, reduciendo los tiempos de espera y el hardware ocioso. Estas técnicas buscan exprimir al máximo la infraestructura disponible frente a la alta demanda de procesamiento.",
+  "importa": "Mejorar la programación de tareas en GPU permite recortar costos millonarios y reducir la huella energética en el desarrollo de inteligencia artificial.",
+  "categoria": "Herramientas",
+  "hue": 225
  },
  {
   "id": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
