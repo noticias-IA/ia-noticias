@@ -1,5 +1,41 @@
 [
  {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+  "fecha": "2026-10-11T18:33:56+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Líderes de Silicon Valley adoptan la propuesta de Trump para renombrar la IA",
+  "resumen": "Donald Trump propuso rebautizar la inteligencia artificial bajo el término de «superinteligencia», una iniciativa que en un principio generó escepticismo. No obstante, varios referentes influyentes de la industria tecnológica han comenzado a respaldar esta designación públicamente. Mientras el público general mantiene el vocabulario tradicional, los directivos del sector buscan alinearse con la retórica del mandatario.",
+  "importa": "Refleja los esfuerzos de los gigantes tecnológicos por congraciarse con el poder político para asegurar influencia regulatoria y comercial.",
+  "categoria": "Empresas",
+  "hue": 103
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+  "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+  "fecha": "2026-10-11T16:52:33+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "¿Puede la IA frenar el rechazo a sus centros de datos con mayor transparencia?",
+  "resumen": "El rápido despliegue de infraestructura para inteligencia artificial está generando resistencia en diversas comunidades debido a su impacto ambiental y consumo de recursos. Ante la amenaza de moratorias que frenen estas construcciones, especialistas analizan si eliminar los acuerdos de confidencialidad mejoraría la relación del sector con la sociedad.",
+  "importa": "El avance técnico de la inteligencia artificial depende directamente de estos centros de datos, por lo que la oposición comunitaria podría convertirse en un cuello de botella crítico.",
+  "categoria": "Empresas",
+  "hue": 12
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+  "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+  "fecha": "2026-10-11T14:00:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "La IA de voz aún no alcanzó su verdadero momento disruptivo",
+  "resumen": "Especialistas del sector señalan que las soluciones de audio impulsadas por inteligencia artificial todavía no lograron un salto comparable al de los modelos de texto. Las dificultades para interpretar y sostener el contexto provocan fallas continuas que interrumpen la interacción. Debido a estas barreras técnicas, la tecnología aún no ofrece la fluidez requerida para una adopción masiva.",
+  "importa": "Resolver los problemas de contexto es clave para que los asistentes de voz dejen de ser herramientas rígidas y alcancen un rendimiento confiable.",
+  "categoria": "Modelos",
+  "hue": 223
+ },
+ {
   "id": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
   "fecha": "2026-10-11T11:00:00+00:00",
