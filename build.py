@@ -131,11 +131,23 @@ def fecha_es(iso):
 
 E = lambda s: html.escape(s or "", quote=True)
 
+ICONOS = {
+    "Modelos": '<rect x="18" y="18" width="28" height="28" rx="3"/><rect x="26" y="26" width="12" height="12"/><path d="M24 10v8M32 10v8M40 10v8M24 46v8M32 46v8M40 46v8M10 24h8M10 32h8M10 40h8M46 24h8M46 32h8M46 40h8"/>',
+    "Empresas": '<path d="M14 52V12h24v40M38 26h12v26M10 52h44M21 20h4M27 20h4M21 28h4M27 28h4M21 36h4M27 36h4M43 34h2M43 42h2"/>',
+    "Investigación": '<path d="M26 10h12M28 10v16L16 50a4 4 0 0 0 4 6h24a4 4 0 0 0 4-6L36 26V10M22 40h20"/>',
+    "Regulación": '<path d="M32 10v40M20 52h24M14 20h36M14 20L6 36h16zM50 20l-8 16h16z"/>',
+    "Herramientas": '<path d="M10 20h44M10 32h44M10 44h44"/><circle cx="22" cy="20" r="4"/><circle cx="42" cy="32" r="4"/><circle cx="28" cy="44" r="4"/>',
+    "Otros": '<path d="M32 8l6 18 18 6-18 6-6 18-6-18-18-6 18-6z"/>',
+}
+
 def portada(a, grande=False):
     if a.get("imagen"):
         return f'<img class="cover" src="{E(a["imagen"])}" alt="" loading="lazy" referrerpolicy="no-referrer">'
     h = a["hue"]
-    return (f'<div class="cover gen" style="--h:{h}"><span>{E(a["categoria"])}</span></div>')
+    ico = ICONOS.get(a["categoria"], ICONOS["Otros"])
+    return (f'<div class="cover gen" style="--h:{h}"><svg class="ico" viewBox="0 0 64 64" fill="none" stroke="#fff" '
+            f'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{ico}</svg>'
+            f'<span>{E(a["categoria"])}</span></div>')
 
 def tarjeta(a, destacada=False):
     imp = f'<p class="imp"><b>Por qué importa:</b> {E(a["importa"])}</p>' if a.get("importa") else ""
@@ -164,7 +176,7 @@ h2{font:700 21px/1.25 "Bricolage Grotesque",Arial,sans-serif;margin:6px 0 8px}
 .top{margin-top:16px;flex-direction:row}.top .cover{width:46%;min-height:280px}.top h2{font-size:30px}
 .top .txt{padding:24px}.card .txt{padding:16px 18px 20px}
 .cover{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
-.gen{background:linear-gradient(135deg,hsl(var(--h) 75% 48%),hsl(calc(var(--h) + 55) 70% 28%));display:flex;align-items:flex-end;padding:14px}
+.gen{position:relative;overflow:hidden;background:radial-gradient(circle at 85% 15%,rgba(255,255,255,.22),transparent 55%),linear-gradient(135deg,hsl(var(--h) 75% 48%),hsl(calc(var(--h) + 55) 70% 28%));display:flex;align-items:flex-end;padding:14px}\n.ico{position:absolute;right:6%;top:50%;transform:translateY(-55%);width:46%;max-width:190px;opacity:.38}
 .gen span{font:700 22px "Bricolage Grotesque",Arial,sans-serif;color:#fff;text-shadow:0 1px 8px rgba(0,0,0,.35)}
 .meta{font:14px "Bricolage Grotesque",Arial,sans-serif;color:var(--mut);margin:0}
 .txt p{margin:0 0 10px}.imp{font-size:15px;color:var(--mut)}
