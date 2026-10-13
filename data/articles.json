@@ -1,5 +1,41 @@
 [
  {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+  "fecha": "2026-10-13T10:32:23+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Character.AI se declara en quiebra y venderá parte de sus activos a Disney",
+  "resumen": "La popular plataforma de chatbots conversacionales inició su proceso de bancarrota tras afrontar crecientes demandas y cuestionamientos vinculados con la seguridad de sus sistemas. Como parte de esta reestructuración, la compañía acordó traspasar una porción de sus activos al gigante del entretenimiento Disney.",
+  "importa": "El caso evidencia la vulnerabilidad de las empresas pioneras del sector frente a las presiones legales y los costos asociados a la seguridad de sus modelos.",
+  "categoria": "Empresas",
+  "hue": 221
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+  "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+  "fecha": "2026-10-13T10:00:00+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "Modelos abiertos de IA: crecen las dudas sobre si sus ventajas superan los riesgos",
+  "resumen": "Un reciente informe de la empresa Anthropic advirtió sobre el peligro de que modelos de acceso libre faciliten ciberataques sofisticados. El hallazgo reavivó una fuerte discusión en la industria sobre la conveniencia de distribuir públicamente estas tecnologías. Los analistas debaten si el fomento a la investigación compensa las amenazas de seguridad derivadas de su uso indebido.",
+  "importa": "El desenlace de esta controversia marcará las futuras normativas globales y la disponibilidad pública de las herramientas de software más avanzadas.",
+  "categoria": "Modelos",
+  "hue": 205
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+  "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+  "fecha": "2026-10-13T09:00:00+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "Laboratorios de IA compran bases de datos de startups quebradas",
+  "resumen": "Los desarrolladores de inteligencia artificial están adquiriendo archivos digitales de empresas cerradas recientemente para entrenar sus sistemas. Incluso pequeños emprendimientos de criptomonedas lograron comercializar su código base y registros por sumas considerables.",
+  "importa": "Esto demuestra cómo la escasez de información impulsa a la industria a buscar nuevas y creativas fuentes para alimentar sus modelos.",
+  "categoria": "Empresas",
+  "hue": 239
+ },
+ {
   "id": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
   "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
   "fecha": "2026-10-12T17:56:56+00:00",
@@ -70,6 +106,18 @@
   "importa": "Esta innovación promete acelerar los plazos de desarrollo y reducir los altos costos asociados al diseño inicial en la industria de la construcción.",
   "categoria": "Herramientas",
   "hue": 150
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+  "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+  "fecha": "2026-10-12T14:00:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Comienza TechCrunch Disrupt 2026 en San Francisco",
+  "resumen": "El evento tecnológico reúne a más de diez mil fundadores, inversores y operadores en San Francisco para tres días de innovación y networking. Los interesados tienen las últimas 24 horas para aprovechar descuentos en la compra de entradas.",
+  "importa": "Es una de las citas clave del año para conocer las startups y tecnologías que marcarán el rumbo del sector.",
+  "categoria": "Otros",
+  "hue": 165
  },
  {
   "id": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
