@@ -1,5 +1,65 @@
 [
  {
+  "id": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "fecha": "2026-10-17T21:31:32+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Meta modificó sus términos tras reclamos por la recolección de datos para IA",
+  "resumen": "Meta dio marcha atrás y retiró una cláusula de sus condiciones de uso que sugería un raspado web masivo para alimentar sus sistemas. La decisión busca aplacar las quejas de creadores y propietarios de sitios web que temían el uso indiscriminado de su contenido. Desde la compañía sostienen que esta corrección no modifica la forma en que sus herramientas rastrean la red habitualmente.",
+  "importa": "El caso evidencia la creciente resistencia de los sitios web frente al entrenamiento de modelos de inteligencia artificial sin consentimiento explícito.",
+  "categoria": "Empresas",
+  "hue": 22
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "fecha": "2026-10-17T20:21:19+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Anthropic reorganiza su equipo: más talento sénior y mayor tiempo en reuniones",
+  "resumen": "Durante el último año, la estructura laboral de Anthropic experimentó una profunda transformación interna. La firma redujo su proporción de empleados novatos en favor de perfiles de mayor trayectoria, lo que también derivó en un aumento del tiempo dedicado a reuniones y coordinación.",
+  "importa": "Refleja cómo el vertiginoso crecimiento de los laboratorios líderes de IA los empuja a adoptar dinámicas corporativas más complejas y maduras.",
+  "categoria": "Empresas",
+  "hue": 152
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "fecha": "2026-10-17T18:48:08+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Replit reemplaza a Anthropic por OpenAI como proveedor de IA por defecto",
+  "resumen": "La plataforma de programación Replit anunció que OpenAI pasará a ser su opción predeterminada de inteligencia artificial en lugar de Anthropic. A pesar de este cambio de prioridad, los usuarios del servicio continuarán teniendo acceso a los modelos Claude.",
+  "importa": "El movimiento refleja la fuerte disputa comercial entre los gigantes de la IA por dominar la infraestructura de las herramientas de desarrollo de software.",
+  "categoria": "Empresas",
+  "hue": 49
+ },
+ {
+  "id": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+  "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+  "fecha": "2026-10-17T15:04:36+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Meta modifica sus condiciones y no usará sitios de noticias para entrenar su IA",
+  "resumen": "Tras recibir fuertes críticas, Meta actualizó sus términos comerciales para dar de baja una cláusula polémica. La redacción previa sugería que la compañía podía extraer información de páginas web externas, incluidos medios informativos, para alimentar sus modelos. Con esta modificación, la tecnológica busca frenar el descontento de editores y creadores de contenido.",
+  "importa": "El caso evidencia la creciente resistencia de los medios frente a las empresas tecnológicas que utilizan material ajeno sin autorización para desarrollar inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 359
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "fecha": "2026-10-17T13:00:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Los sitios web comienzan a bloquear el acceso a los agentes autónomos de IA",
+  "resumen": "Diversas plataformas de internet están implementando restricciones para impedir que los agentes de inteligencia artificial naveguen y operen en sus páginas. Aunque gigantes como OpenAI, Google y Meta prometen herramientas capaces de reservar turnos o hacer compras de forma autónoma, la resistencia de los desarrolladores web amenaza con frenar su avance.",
+  "importa": "El bloqueo masivo pone en riesgo la utilidad real de los agentes autónomos, cuya propuesta de valor depende del libre acceso a los servicios en línea.",
+  "categoria": "Herramientas",
+  "hue": 50
+ },
+ {
   "id": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
   "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
   "fecha": "2026-10-16T21:22:28+00:00",
@@ -94,6 +154,18 @@
   "importa": "Evidencia cómo las pasarelas unificadas aceleran la integración práctica de nuevos sistemas de inteligencia artificial en entornos de producción.",
   "categoria": "Modelos",
   "hue": 100
+ },
+ {
+  "id": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+  "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+  "fecha": "2026-10-16T15:00:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Nvidia prueba sus nuevos procesadores Arm RTX Spark para computadoras portátiles",
+  "resumen": "Las primeras pruebas del procesador RTX Spark N1X de Nvidia revelan el potencial de sus nuevos chips para equipos portátiles y de escritorio compactos. Diseñado sobre arquitectura Arm, este componente busca competir de forma directa frente a las propuestas de Apple, Qualcomm, Intel y AMD. Las evaluaciones iniciales destacan una configuración con abundantes núcleos y la potencia gráfica característica de la compañía.",
+  "importa": "Representa la apuesta formal de Nvidia por dominar los procesadores para ordenadores personales, acelerando la competencia en hardware móvil de alto rendimiento.",
+  "categoria": "Herramientas",
+  "hue": 147
  },
  {
   "id": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
