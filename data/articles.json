@@ -1,5 +1,53 @@
 [
  {
+  "id": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+  "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+  "fecha": "2026-10-19T09:08:05+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "Dejan a Claude en una isla virtual sin órdenes y el modelo empieza a 'jugar'",
+  "resumen": "Un equipo de científicos dejó a agentes basados en Claude Opus aislados en un entorno digital durante 30 horas sin asignarles ninguna tarea concreta. Lejos de quedar inactivos, los modelos comenzaron a desplegar conductas exploratorias y recreativas de forma autónoma. El experimento demuestra patrones de comportamiento espontáneo en sistemas avanzados cuando no reciben instrucciones humanas.",
+  "importa": "Resulta fundamental para comprender cómo actúan los agentes inteligentes cuando se les otorga autonomía total y carecen de objetivos explícitos.",
+  "categoria": "Investigación",
+  "hue": 85
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+  "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+  "fecha": "2026-10-18T20:37:40+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Anthropic destinará el 5% de sus acciones a un fondo de beneficio público",
+  "resumen": "La compañía de inteligencia artificial Anthropic anunció el compromiso de ceder el cinco por ciento de sus acciones a un fondo orientado al bien social. Esta iniciativa busca canalizar parte de las ganancias y del valor que genere la empresa hacia proyectos de impacto positivo para la comunidad.",
+  "importa": "El movimiento muestra la intención de los grandes laboratorios de alinear sus objetivos comerciales con compromisos éticos a largo plazo frente al avance del sector.",
+  "categoria": "Empresas",
+  "hue": 104
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+  "fecha": "2026-10-18T18:28:10+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Detienen a una mujer en Filadelfia por bloquear el paso a un robot de entregas",
+  "resumen": "Una residente de Filadelfia fue arrestada e imputada por desorden público tras impedir el avance de un robot autónomo de reparto perteneciente a Uber. La acusada declaró que bloqueaba estos dispositivos como medida de protesta ante la pérdida de puestos de trabajo humanos frente a las máquinas.",
+  "importa": "El hecho ilustra la creciente conflictividad social que suscita la automatización y el reemplazo de mano de obra en las ciudades.",
+  "categoria": "Empresas",
+  "hue": 65
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "fecha": "2026-10-18T16:30:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Disney planea incorporar a la mayor parte del equipo de Character.AI",
+  "resumen": "Disney alcanzó un acuerdo preliminar para contratar a la gran mayoría del personal de la startup de chatbots Character.AI, y la mayoría de los empleados convocados ya aceptaron la propuesta. Sin embargo, la operación se estructuró como una oferta inicial de referencia, por lo que otra compañía aún podría superarla antes de que se cierre. Este movimiento se da en medio de las reestructuraciones y transferencias de talento que atraviesa la firma de inteligencia artificial.",
+  "importa": "Demuestra la urgencia de los gigantes del entretenimiento tradicional por captar talento especializado para desarrollar sus propios entornos y personajes impulsados por inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 260
+ },
+ {
   "id": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
   "fecha": "2026-10-17T21:31:32+00:00",
