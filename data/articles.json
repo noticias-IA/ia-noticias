@@ -1,5 +1,53 @@
 [
  {
+  "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+  "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+  "fecha": "2026-10-20T11:00:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Otter.ai recauda 320 millones de dólares para expandir su asistente de reuniones",
+  "resumen": "La plataforma de transcripción y asistencia virtual Otter.ai aseguró 320 millones de dólares a través de un fondo especial de General Catalyst. Los recursos se utilizarán sin diluir la participación de los accionistas para impulsar su llegada a empresas, financiar su expansión internacional y acelerar la innovación de sus productos.",
+  "importa": "El movimiento refleja la creciente demanda de capital para escalar herramientas corporativas de productividad basadas en IA sin ceder control accionario.",
+  "categoria": "Empresas",
+  "hue": 74
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+  "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+  "fecha": "2026-10-19T19:28:34+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Hackean la herramienta de IA OpenCode y roban claves de API de usuarios",
+  "resumen": "Ciberdelincuentes vulneraron los servidores de OpenCode, un popular asistente de programación de código abierto alternativo a Cursor. Durante el ataque, los intrusos sustrajeron credenciales privadas de los desarrolladores y generaron consumos elevados en sus cuentas de IA. Los administradores también denunciaron que varios modelos comerciales se negaron a auditar el código malicioso debido a sus filtros de seguridad.",
+  "importa": "El caso expone la vulnerabilidad financiera ligada a la gestión de claves de API y cómo las restricciones de seguridad de los modelos pueden entorpecer la respuesta ante incidentes.",
+  "categoria": "Herramientas",
+  "hue": 126
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+  "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+  "fecha": "2026-10-19T18:49:04+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "La fundadora de Replika lanza Wabi, un nuevo asistente personal con IA",
+  "resumen": "Eugenia Kuyda, creadora de la reconocida aplicación Replika, presentó su nueva startup denominada Wabi. La plataforma ofrece un asistente de inteligencia artificial personal que ya se encuentra disponible para su descarga de forma gratuita. Con este lanzamiento, la emprendedora materializa una idea que había concebido hace más de una década.",
+  "importa": "Muestra la evolución del mercado de asistentes virtuales hacia modelos más accesibles y personalizados, impulsados por figuras pioneras del sector.",
+  "categoria": "Herramientas",
+  "hue": 135
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+  "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+  "fecha": "2026-10-19T18:22:47+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "Diseñar una web ideal para agentes de IA podría perjudicar a los usuarios humanos",
+  "resumen": "La creciente presencia de agentes autónomos de inteligencia artificial está transformando la forma en que se estructuran los sitios web. Adaptar la infraestructura digital para optimizar la navegación de estos sistemas automatizados amenaza con degradar la experiencia de las personas reales. Este cambio plantea tensiones entre el desarrollo técnico enfocado en máquinas y el acceso concebido para los usuarios tradicionales.",
+  "importa": "El avance de los agentes autónomos podría redefinir los estándares de internet y marginar la interacción humana directa con los contenidos online.",
+  "categoria": "Investigación",
+  "hue": 127
+ },
+ {
   "id": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
   "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
   "fecha": "2026-10-19T09:08:05+00:00",
