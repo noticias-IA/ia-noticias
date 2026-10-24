@@ -8,7 +8,7 @@ SITE_URL = "https://i-a.net.ar"
 MODEL = "claude-haiku-5-5"
 MAX_NEW_PER_RUN = 15        # tope de noticias nuevas por día
 KEEP = 400                  # cuántas noticias guardar en total
-DAYS_BACK = 2               # solo noticias de los últimos N días
+DAYS_BACK = 3               # solo noticias de los últimos N días
 USE_SOURCE_IMAGES = False   # True = usar la foto de la fuente (ver aviso de derechos de autor)
 # (nombre, url del feed, ¿filtrar por palabras de IA?)
 FEEDS = [
@@ -84,7 +84,7 @@ def recolectar(vistos):
 
 import urllib.request, urllib.error, time
 GEMINI_MODELS = [m.strip() for m in os.environ.get("GEMINI_MODEL", "").split(",") if m.strip()] or \
-    ["gemini-flash-latest", "gemini-3.8-flash", "gemini-flash-lite-latest"]
+    ["gemini-flash-lite-latest", "gemini-flash-latest", "gemini-3.8-flash"]
 _ok = {}
 
 def llamar_gemini(prompt):
@@ -95,10 +95,10 @@ def llamar_gemini(prompt):
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
         body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
                            "generationConfig": {"responseMimeType": "application/json"}}).encode()
-        for _ in range(3):
+        for _ in range(2):
             req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": clave})
             try:
-                with urllib.request.urlopen(req, timeout=60) as r:
+                with urllib.request.urlopen(req, timeout=45) as r:
                     d = json.load(r)
                 _ok["m"] = modelo
                 time.sleep(6)  # respeta el límite por minuto del plan gratuito
@@ -108,6 +108,9 @@ def llamar_gemini(prompt):
                 if ex.code in (429, 503):  # saturado o límite: esperar y reintentar
                     time.sleep(25); continue
                 break
+            except (OSError, ValueError, KeyError) as ex:  # timeout, red caída, respuesta rara
+                ultimo = f"{modelo}: {type(ex).__name__} {ex}"
+                break  # pasar al siguiente modelo
     raise RuntimeError(ultimo)
 
 def resumir(client, a):
@@ -236,12 +239,18 @@ def main():
             client = "gemini"
         else:
             sys.exit("Falta la clave: cargá GEMINI_API_KEY o ANTHROPIC_API_KEY en los Secrets de GitHub.")
+        fallos = 0
         for a in recolectar({x["id"] for x in arts}):
             try:
                 r = resumir(client, a)
+                fallos = 0
                 if r: arts.append(r); print("OK:", r["titulo"])
             except Exception as ex:
+                fallos += 1
                 print("Falló una nota:", a["orig"], ex)
+                if fallos >= 4:
+                    print("Demasiados fallos seguidos: corto por hoy y reintento en la próxima ejecución.")
+                    break
         arts = sorted(arts, key=lambda a: a["fecha"], reverse=True)[:KEEP]
         os.makedirs("data", exist_ok=True)
         json.dump(arts, open(DATA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
