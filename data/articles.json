@@ -1,5 +1,17 @@
 [
  {
+  "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "fecha": "2026-10-23T10:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "OpenAI refuerza la seguridad en el entrenamiento de sus modelos más avanzados",
+  "resumen": "La compañía implementó nuevas medidas de contención técnica para proteger el desarrollo y la evaluación de sus sistemas de frontera. Entre las mejoras destacan el aislamiento en entornos sin conexión a internet y pruebas intensivas de vulnerabilidades con alto poder de cómputo.",
+  "importa": "Proteger estos entornos resulta crucial para evitar filtraciones y accesos no autorizados a tecnologías de inteligencia artificial con capacidades críticas.",
+  "categoria": "Empresas",
+  "hue": 231
+ },
+ {
   "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
   "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
   "fecha": "2026-10-22T07:51:31+00:00",
