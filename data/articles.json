@@ -1,5 +1,17 @@
 [
  {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+  "fecha": "2026-10-24T21:29:12+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Blue Planet III evitará el exceso de retoques digitales para no parecer IA",
+  "resumen": "La próxima entrega de la famosa serie documental de la BBC busca demostrar su autenticidad conservando tomas imperfectas y naturales. Ante la creciente presencia de contenidos digitales hiperpolidos, el equipo prefiere mantener los detalles rústicos para distanciarse del aspecto artificial.",
+  "importa": "Demuestra cómo la perfección visual generada por algoritmos obliga a las producciones reales a buscar nuevas formas de probar su autenticidad ante el público.",
+  "categoria": "Otros",
+  "hue": 72
+ },
+ {
   "id": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
   "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
   "fecha": "2026-10-24T19:00:00+00:00",
@@ -144,6 +156,18 @@
   "hue": 110
  },
  {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+  "fecha": "2026-10-23T12:00:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Herramientas de IA impulsan la proliferación de videojuegos retro virales",
+  "resumen": "Nuevos programas de inteligencia artificial están facilitando la creación y adaptación viral de videojuegos clásicos en plataformas inusuales. En las últimas semanas se multiplicaron proyectos inesperados que trasladan títulos históricos a navegadores web, teléfonos móviles y realidad mixta.",
+  "importa": "Esto demuestra cómo la IA democratiza el desarrollo de software y transforma el consumo cultural al revivir clásicos en formatos innovadores.",
+  "categoria": "Herramientas",
+  "hue": 297
+ },
+ {
   "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
   "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
   "fecha": "2026-10-23T10:00:00+00:00",
@@ -154,6 +178,126 @@
   "importa": "Proteger estos entornos resulta crucial para evitar filtraciones y accesos no autorizados a tecnologías de inteligencia artificial con capacidades críticas.",
   "categoria": "Empresas",
   "hue": 231
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+  "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+  "fecha": "2026-10-23T04:00:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "inDrive, Pony.ai y Nvidia llevarán taxis autónomos a Asia Central en 2027",
+  "resumen": "La plataforma inDrive se asoció con Pony.ai y Nvidia para iniciar pruebas con vehículos autónomos en Kazajistán. Los ensayos comenzarán en la capital durante la primera mitad de 2027.",
+  "importa": "Demuestra la expansión global de la tecnología de conducción autónoma hacia nuevos mercados emergentes mediante alianzas estratégicas.",
+  "categoria": "Empresas",
+  "hue": 238
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+  "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+  "fecha": "2026-10-23T00:45:37+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Investigadores del MIT dejan a trece agentes de IA solos en una isla virtual",
+  "resumen": "Científicos del MIT aislaron a trece inteligencias artificiales en un entorno simulado para observar su comportamiento. Ante la falta de tareas asignadas, los sistemas comenzaron a crear juegos propios, desarrollar dinámicas sociales y mejorar su rendimiento laboral.",
+  "importa": "Demuestra que los agentes autónomos pueden desarrollar conductas emergentes complejas y cooperativas sin intervención humana directa.",
+  "categoria": "Investigación",
+  "hue": 359
+ },
+ {
+  "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "fecha": "2026-10-23T00:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "OpenAI y NASK se unen para fortalecer la seguridad y la investigación en IA",
+  "resumen": "La compañía OpenAI y la organización polaca NASK establecieron una alianza estratégica enfocada en la seguridad de la inteligencia artificial. El acuerdo busca desarrollar investigaciones técnicas conjuntas para mejorar las medidas de protección y consolidar un entorno digital más seguro.",
+  "importa": "Esta colaboración es clave porque impulsa estándares globales más sólidos de ciberseguridad y resiliencia frente a los riesgos emergentes de la IA.",
+  "categoria": "Empresas",
+  "hue": 32
+ },
+ {
+  "id": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "fecha": "2026-10-23T00:00:00+00:00",
+  "fuente": "Hugging Face",
+  "imagen": "",
+  "titulo": "Hugging Face incorpora soporte para consultar compatibilidad con AWS Trainium",
+  "resumen": "La plataforma de machine learning introdujo una funcionalidad para verificar de forma rápida si los modelos de inteligencia artificial son compatibles con los chips Trainium de Amazon. De esta manera, los desarrolladores pueden optimizar su infraestructura en la nube de manera más eficiente.",
+  "importa": "Facilita la integración de modelos avanzados en hardware especializado para reducir costos operativos.",
+  "categoria": "Herramientas",
+  "hue": 192
+ },
+ {
+  "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "fecha": "2026-10-22T22:24:34+00:00",
+  "fuente": "Hugging Face",
+  "imagen": "",
+  "titulo": "Hugging Face presenta ThinkingBox para mejorar agentes de IA",
+  "resumen": "La plataforma introduce un nuevo método que convierte la evaluación de bases de datos en recompensas de aprendizaje por refuerzo. Esta técnica optimiza el entrenamiento posterior de agentes inteligentes para potenciar su razonamiento.",
+  "importa": "Permite desarrollar agentes de inteligencia artificial más precisos y autónomos mediante un sistema de retroalimentación automatizado.",
+  "categoria": "Investigación",
+  "hue": 39
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "fecha": "2026-10-22T22:08:24+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "OpenAI prepara una ronda histórica de 30 mil millones y apunta a la bolsa",
+  "resumen": "La compañía creadora de ChatGPT busca una nueva inyección de capital masiva. De concretarse, su valoración superaría el billón de dólares, estableciendo un récord absoluto para una empresa privada antes de su oferta pública inicial.",
+  "importa": "Esta operación redefine la escala financiera del sector tecnológico y consolida el dominio económico de la inteligencia artificial generativa a nivel global.",
+  "categoria": "Empresas",
+  "hue": 335
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+  "fecha": "2026-10-22T21:51:25+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Canva lanzó su propio modelo de inteligencia artificial para crear imágenes con mayor control",
+  "resumen": "La plataforma de diseño Canva presentó Canva Craft, un nuevo modelo generativo de inteligencia artificial que compite de forma directa con gigantes como OpenAI, Microsoft y Google. Su tecnología se basa en una arquitectura de dos etapas que planifica el diseño antes de la creación visual para lograr una precisión superior.",
+  "importa": "Esta herramienta revoluciona la edición gráfica al ofrecer a los usuarios un control mucho más preciso y consistente sobre el contenido visual generado por computadora.",
+  "categoria": "Herramientas",
+  "hue": 168
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+  "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+  "fecha": "2026-10-22T21:17:29+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "El verdadero valor de la IA empresarial está en la infraestructura",
+  "resumen": "La ventaja competitiva en la inteligencia artificial corporativa ya no depende únicamente de elegir el modelo más potente. El foco actual se desplaza hacia la infraestructura y los sistemas que se construyen alrededor de esa tecnología.",
+  "importa": "Esto importa porque redefine la estrategia tecnológica de las empresas, priorizando la arquitectura de soporte por encima de la simple capacidad del modelo.",
+  "categoria": "Empresas",
+  "hue": 18
+ },
+ {
+  "id": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+  "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+  "fecha": "2026-10-22T20:32:05+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Expertos legales dudan de los cambios en los términos de Meta sobre IA",
+  "resumen": "Meta modificó sus condiciones comerciales para eliminar frases que indicaban el uso libre de sitios de noticias en el entrenamiento de sus modelos. Sin embargo, especialistas legales advierten que estas modificaciones resultan insuficientes para frenar el rastreo de contenido.",
+  "importa": "Este debate pone en evidencia el conflicto continuo entre el desarrollo de la inteligencia artificial y los derechos de propiedad intelectual de los medios de comunicación.",
+  "categoria": "Regulación",
+  "hue": 286
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+  "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+  "fecha": "2026-10-22T19:07:09+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "1Password permite que agentes de IA inicien sesión sin revelar tus claves",
+  "resumen": "La compañía de gestión de credenciales lanzó una función que habilita a los asistentes virtuales a acceder a cuentas personales. De este modo, los agentes realizan tareas de inicio de sesión mientras la contraseña principal permanece protegida.",
+  "importa": "Facilita la automatización de tareas mediante agentes autónomos sin comprometer la seguridad de las cuentas de los usuarios.",
+  "categoria": "Herramientas",
+  "hue": 123
  },
  {
   "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
