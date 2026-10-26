@@ -1,5 +1,65 @@
 [
  {
+  "id": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "fecha": "2026-10-25T21:31:16+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Grok presenta los primeros siete minutos de su película generada por IA",
+  "resumen": "La plataforma Grok develó un extenso adelanto de 'Odyssey', un largometraje creado enteramente mediante inteligencia artificial. Las imágenes muestran resultados visuales aceptables, aunque los críticos señalan una clara falta de profundidad artística, alma e interés humano.",
+  "importa": "Este lanzamiento marca un nuevo avance en la producción de contenido audiovisual automatizado, evidenciando tanto el progreso técnico como las limitaciones creativas actuales de la IA.",
+  "categoria": "Modelos",
+  "hue": 207
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "fecha": "2026-10-25T16:57:32+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Expertos afirman que la inteligencia artificial aún no genera ganancias corporativas",
+  "resumen": "A pesar de las cuantiosas inversiones y el entusiasmo generalizado por la inteligencia artificial, la tecnología no ha logrado traducirse en beneficios económicos reales para la mayoría de las empresas fuera del sector tecnológico. Un análisis reciente pone en duda la rentabilidad a corto plazo de estas implementaciones masivas en el mercado corporativo.",
+  "importa": "Es fundamental para evaluar con realismo el retorno de inversión y el impacto económico actual de la IA en el mundo empresarial.",
+  "categoria": "Empresas",
+  "hue": 324
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+  "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+  "fecha": "2026-10-25T14:10:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Los dispositivos portátiles de inteligencia artificial más destacados del momento",
+  "resumen": "Se dio a conocer una selección con los dispositivos y accesorios inteligentes más llamativos de la actualidad. El listado incluye innovaciones tecnológicas recientes diseñadas para integrar la asistencia virtual en la vida cotidiana.",
+  "importa": "Permite conocer las nuevas tendencias en hardware que acercan la inteligencia artificial al uso personal diario.",
+  "categoria": "Herramientas",
+  "hue": 137
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "fecha": "2026-10-25T13:25:32+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "El foro r/opensource prohibió la publicación de proyectos relacionados con inteligencia artificial",
+  "resumen": "Los moderadores de la comunidad r/opensource implementaron nuevas normas que prohíben estrictamente cualquier proyecto que involucre o haya sido creado mediante inteligencia artificial. Según la directiva actual, estas tecnologías no se alinean con los principios del software libre.",
+  "importa": "Esta medida refleja la creciente resistencia y el debate ético en torno a la inteligencia artificial dentro de los espacios tradicionales de código abierto.",
+  "categoria": "Otros",
+  "hue": 317
+ },
+ {
+  "id": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+  "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+  "fecha": "2026-10-25T12:00:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "El impacto de la búsqueda con IA de Google en la industria de medios",
+  "resumen": "Las funciones de búsqueda impulsadas por inteligencia artificial desarrolladas por Google están transformando profundamente el ecosistema de los medios digitales. Este fenómeno altera la forma en que los usuarios consumen información y desafía los modelos de negocio tradicionales del periodismo en línea.",
+  "importa": "Es fundamental porque redefine la visibilidad de los sitios web y la supervivencia económica de los creadores de contenido frente al monopolio de los buscadores.",
+  "categoria": "Empresas",
+  "hue": 1
+ },
+ {
   "id": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
   "fecha": "2026-10-24T21:29:12+00:00",
@@ -142,6 +202,18 @@
   "importa": "Es relevante porque afecta directamente la privacidad de los usuarios al habilitar el uso comercial de sus archivos y correos más personales a cambio de integrar funciones inteligentes.",
   "categoria": "Empresas",
   "hue": 62
+ },
+ {
+  "id": "https://huggingface.co/blog/allenai/litpivot",
+  "link": "https://huggingface.co/blog/allenai/litpivot",
+  "fecha": "2026-10-23T16:15:50+00:00",
+  "fuente": "Hugging Face",
+  "imagen": "",
+  "titulo": "LitPivot: nueva herramienta de IA para potenciar ideas de investigación científica",
+  "resumen": "LitPivot es un sistema avanzado diseñado para ayudar a los investigadores a desarrollar y refinar ideas científicas. La tecnología analiza el panorama bibliográfico existente para ofrecer un contexto dinámico y relevante.",
+  "importa": "Facilita el trabajo de los científicos al conectar sus hipótesis con la literatura académica de manera más eficiente.",
+  "categoria": "Herramientas",
+  "hue": 322
  },
  {
   "id": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
