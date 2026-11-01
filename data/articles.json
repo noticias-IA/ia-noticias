@@ -1,5 +1,53 @@
 [
  {
+  "id": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "fecha": "2026-10-31T21:41:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Apple defiende su estrategia y asegura que no lanzará inteligencia artificial sin sentido",
+  "resumen": "El director ejecutivo de Apple justificó la postura actual de la compañía frente al desarrollo tecnológico actual. Señaló que la corporación busca ofrecer soluciones verdaderamente útiles en lugar de subirse a las tendencias de manera apresurada. De este modo, la empresa busca marcar su propio ritmo en el sector.",
+  "importa": "Es relevante porque anticipa la visión de uno de los gigantes tecnológicos sobre la integración y el propósito real de la IA en los dispositivos de consumo masivo.",
+  "categoria": "Empresas",
+  "hue": 50
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "fecha": "2026-10-31T21:17:03+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Avanza demanda contra centro de datos de xAI por contaminación",
+  "resumen": "Un juez permitió que siga adelante una demanda presentada por la NAACP contra la empresa de inteligencia artificial de Elon Musk. La acción legal acusa a la compañía de violar la ley de aire limpio debido a las emisiones contaminantes de sus instalaciones.",
+  "importa": "Este caso marca un precedente clave sobre el impacto ambiental y las regulaciones que enfrentan las grandes infraestructuras de IA.",
+  "categoria": "Regulación",
+  "hue": 254
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "fecha": "2026-10-31T16:12:55+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "OpenAI reduce la meta económica para su próxima ronda de inversión",
+  "resumen": "La reciente ronda de financiamiento de OpenAI enfrenta dificultades para cumplir con las proyecciones iniciales previstas. Debido a este panorama menos favorable, la compañía decidió disminuir sus expectativas de recaudación de capital.",
+  "importa": "Esto refleja posibles desafíos en el mercado financiero para sostener el rápido crecimiento de los líderes en IA.",
+  "categoria": "Empresas",
+  "hue": 235
+ },
+ {
+  "id": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+  "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+  "fecha": "2026-10-31T16:05:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Creó su propio Tamagotchi con inteligencia artificial antes que Meta",
+  "resumen": "Un usuario decidió fabricar su propia mascota virtual con inteligencia artificial en lugar de esperar el lanzamiento comercial de Meta. El proyecto casero imita la idea de llevar un asistente digital portátil a todas partes.",
+  "importa": "Demuestra que los usuarios pueden replicar dispositivos de grandes tecnológicas por cuenta propia con tecnología accesible.",
+  "categoria": "Herramientas",
+  "hue": 289
+ },
+ {
   "id": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
   "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
   "fecha": "2026-10-31T01:20:05+00:00",
@@ -154,6 +202,66 @@
   "importa": "Revela los riesgos de una burbuja especulativa impulsada por promesas exageradas en el sector tecnológico.",
   "categoria": "Empresas",
   "hue": 255
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+  "fecha": "2026-10-30T14:58:06+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "El Papa León XIV pide prohibir las armas autónomas y desarmar la inteligencia artificial",
+  "resumen": "Durante un mensaje oficial, el Papa León XIV instó a los estados miembros de la ONU a tomar medidas concretas para prohibir las armas letales autónomas. El sumo pontífice recordó que las máquinas son herramientas y no personas, por lo que la humanidad debe guiar y rechazar sus aplicaciones peligrosas.",
+  "importa": "Su importancia radica en la creciente presión ética y religiosa a nivel global para establecer límites regulatorios en el uso militar de la tecnología.",
+  "categoria": "Regulación",
+  "hue": 297
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+  "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+  "fecha": "2026-10-30T13:54:25+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "DoorDash recibe cientos de pedidos a través de agentes de inteligencia artificial",
+  "resumen": "La plataforma de entrega DoorDash informó que hasta el momento ha procesado una cantidad limitada de pedidos originados por sistemas de inteligencia artificial de terceros. A pesar de este volumen bajo, la compañía se muestra receptiva a colaborar con los desarrolladores de estas tecnologías automatizadas.",
+  "importa": "Este fenómeno marca el inicio incipiente de las transacciones comerciales automatizadas por software autónomo en el sector gastronómico.",
+  "categoria": "Empresas",
+  "hue": 229
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+  "fecha": "2026-10-30T13:11:05+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "El dilema de invertir en inteligencia artificial: entre el riesgo y el milagro",
+  "resumen": "Las apuestas financieras en el sector tecnológico actual se asemejan a los juegos de azar debido a la incertidumbre del futuro. Los inversores deben decidir si financian una tecnología capaz de generar una era dorada o de desatar peligros existenciales.",
+  "importa": "Comprender esta dinámica financiera es clave porque las expectativas desmedidas sobre la IA moldean la economía global y el desarrollo tecnológico actual.",
+  "categoria": "Empresas",
+  "hue": 340
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+  "fecha": "2026-10-30T13:01:14+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "OpenAI continuará generando avances matemáticos a pesar de las críticas",
+  "resumen": "Sam Altman reconoció las dificultades que enfrentan los matemáticos para procesar la abrumadora cantidad de resultados generados por la inteligencia artificial de OpenAI. Sin embargo, el director ejecutivo confirmó que la empresa no frenará este ritmo y dejó entrever que guarda más descubrimientos en su poder.",
+  "importa": "Este fenómeno marca un punto de inflexión donde la capacidad de producción de la IA supera la velocidad humana de asimilación en ciencias exactas.",
+  "categoria": "Investigación",
+  "hue": 131
+ },
+ {
+  "id": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+  "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+  "fecha": "2026-10-30T13:00:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Fabricación en serie: la startup que quiere armar centros de datos como autos",
+  "resumen": "La empresa Runware está construyendo una planta para fabricar centros de datos prefabricados mediante una línea de ensamblaje. Su gran desafío será demostrar si realmente pueden producir a esa escala industrial.",
+  "importa": "Podría revolucionar la infraestructura tecnológica al acelerar y abaratar la construcción de instalaciones clave para la IA.",
+  "categoria": "Empresas",
+  "hue": 125
  },
  {
   "id": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
