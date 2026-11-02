@@ -1,5 +1,41 @@
 [
  {
+  "id": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+  "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+  "fecha": "2026-11-02T09:35:19+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "El avance de la web agéntica y los sistemas autónomos",
+  "resumen": "Se retoma la visión original de Tim Berners-Lee sobre una red pensada para ser navegada por software autónomo. Esta evolución promete transformar radicalmente la forma en que interactuamos con los servicios digitales y la información en línea.",
+  "importa": "Esto importa porque marca el inicio de una nueva era donde agentes de inteligencia artificial operarán de manera independiente en la web para resolver nuestras necesidades.",
+  "categoria": "Investigación",
+  "hue": 248
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+  "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+  "fecha": "2026-11-01T21:55:23+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "OpenAI planea renombrar sus centros de datos como campus de cómputo",
+  "resumen": "Ante el rechazo público que generan los centros de datos tradicionales, la empresa detrás de ChatGPT evalúa cambiarles el nombre. La iniciativa busca mejorar la percepción social de estas instalaciones tecnológicas esenciales.",
+  "importa": "Demuestra cómo las grandes empresas de tecnología intentan usar estrategias de marketing y relaciones públicas para mitigar el impacto ambiental y social de su infraestructura.",
+  "categoria": "Empresas",
+  "hue": 166
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+  "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+  "fecha": "2026-11-01T20:57:58+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "El impacto de la inteligencia artificial en los CEO y los empleados tecnológicos",
+  "resumen": "Analizamos las declaraciones recientes de los principales directivos del sector tecnológico sobre la inteligencia artificial. A menudo, estas posturas generan desconcierto entre el resto de los trabajadores que enfrentan una realidad laboral muy diferente.",
+  "importa": "Refleja la desconexión entre la alta dirección y los empleados respecto al uso y las consecuencias de la inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 270
+ },
+ {
   "id": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
   "fecha": "2026-10-31T21:41:00+00:00",
@@ -214,6 +250,18 @@
   "importa": "Su importancia radica en la creciente presión ética y religiosa a nivel global para establecer límites regulatorios en el uso militar de la tecnología.",
   "categoria": "Regulación",
   "hue": 297
+ },
+ {
+  "id": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+  "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+  "fecha": "2026-10-30T14:18:30+00:00",
+  "fuente": "Google DeepMind",
+  "imagen": "",
+  "titulo": "Google DeepMind acelera decisiones urbanas con inteligencia artificial",
+  "resumen": "Google DeepMind se asoció con el gobierno del Reino Unido para implementar sistemas inteligentes. El objetivo principal es disminuir los plazos necesarios para evaluar proyectos de planificación.",
+  "importa": "Demuestra cómo la tecnología puede agilizar trámites burocráticos y la gestión gubernamental.",
+  "categoria": "Empresas",
+  "hue": 29
  },
  {
   "id": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
