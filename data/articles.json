@@ -1,5 +1,65 @@
 [
  {
+  "id": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "fecha": "2026-11-07T21:17:08+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Acusan a China de reclutar a una ejecutiva para espiar al CEO de Nvidia",
+  "resumen": "Un memorando de inteligencia de Estados Unidos señala que el Ministerio de Seguridad del Estado de China reclutó a una alta ejecutiva tecnológica. Su misión principal era infiltrarse y espiar al director ejecutivo de Nvidia.",
+  "importa": "Este caso evidencia las crecientes tensiones geopolíticas y de espionaje industrial que rodean a los líderes globales en el desarrollo de hardware y tecnología de inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 64
+ },
+ {
+  "id": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+  "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+  "fecha": "2026-11-07T15:50:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Probé el asistente de inteligencia artificial de NYT Cooking para la cena",
+  "resumen": "Una cronista usó el nuevo asistente culinario impulsado por inteligencia artificial de NYT Cooking para resolver las cenas de la semana. La herramienta logró salvar su plato principal con pollo, pero casi arruina la preparación de un pastel debido a limitaciones en las recetas.",
+  "importa": "Demuestra el estado actual y los altibajos de los asistentes de cocina basados en inteligencia artificial en el hogar.",
+  "categoria": "Herramientas",
+  "hue": 297
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+  "fecha": "2026-11-07T15:43:45+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Estados Unidos autorizó la venta de chips de IA a una oficina fantasma en China",
+  "resumen": "Surgen fuertes cuestionamientos sobre los controles del Departamento de Comercio y Nvidia en la exportación de tecnología. Se descubrió que una de las empresas aprobadas para recibir los procesadores avanzados cuenta únicamente con instalaciones vacías.",
+  "importa": "Este fallo pone en evidencia las graves fallas en la supervisión de las restricciones comerciales sobre hardware avanzado para inteligencia artificial.",
+  "categoria": "Regulación",
+  "hue": 13
+ },
+ {
+  "id": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+  "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+  "fecha": "2026-11-07T15:00:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "El impacto de la inteligencia artificial en la ciberseguridad actual",
+  "resumen": "El experto en ciberseguridad Alex Stamos analiza el estado actual del sector tras la irrupción de la inteligencia artificial. La entrevista forma parte de una serie especial sobre el impacto de la tecnología en situaciones reales.",
+  "importa": "Comprende los nuevos desafíos y la transformación que la inteligencia artificial genera en la seguridad digital.",
+  "categoria": "Investigación",
+  "hue": 320
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "fecha": "2026-11-07T12:30:00+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Un informe de METR advierte que Anthropic automatiza la creación de IA",
+  "resumen": "Una investigación de la organización METR reveló que Anthropic utiliza inteligencia artificial para desarrollar sistemas más avanzados. Los resultados muestran que los modelos de la compañía mejoran al doble de velocidad que el año pasado.",
+  "importa": "Esto demuestra que la inteligencia artificial ya es capaz de acelerar su propio desarrollo, un hito que preocupa a los investigadores por sus posibles implicaciones en la seguridad global.",
+  "categoria": "Investigación",
+  "hue": 116
+ },
+ {
   "id": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
   "fecha": "2026-11-07T01:40:28+00:00",
@@ -132,6 +192,18 @@
   "hue": 83
  },
  {
+  "id": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+  "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+  "fecha": "2026-11-06T16:38:02+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Las elecciones en EE. UU. dejan un panorama complejo para la inteligencia artificial",
+  "resumen": "Los resultados electorales recientes en Estados Unidos muestran un fuerte rechazo de los votantes hacia las grandes tecnológicas y la inteligencia artificial. Esta tendencia anticipa mayores dificultades regulatorias y políticas para el desarrollo de la infraestructura del sector, especialmente en lo referente a los centros de datos.",
+  "importa": "Anticipa un escenario político adverso para las grandes tecnológicas, lo que podría frenar el ritmo de expansión y la inversión en infraestructura de IA en el país norteamericano.",
+  "categoria": "Regulación",
+  "hue": 125
+ },
+ {
   "id": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
   "fecha": "2026-11-06T15:54:47+00:00",
@@ -156,6 +228,30 @@
   "hue": 299
  },
  {
+  "id": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+  "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+  "fecha": "2026-11-06T13:02:16+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Underdog sorprende con un modelo de voz e inteligencia artificial de solo 32MB",
+  "resumen": "La startup Underdog demostró las capacidades de su nuevo sistema de inteligencia artificial, el cual ocupa apenas 32 megabytes de almacenamiento. A pesar de su tamaño extremadamente reducido, el software es capaz de sintetizar tanto voz humana como composiciones musicales.",
+  "importa": "Demuestra que es posible ejecutar modelos de audio avanzados en dispositivos con recursos muy limitados.",
+  "categoria": "Modelos",
+  "hue": 52
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+  "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+  "fecha": "2026-11-06T13:00:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Physicl recaudó 10 millones de dólares para mejorar las simulaciones robóticas",
+  "resumen": "La startup Physicl obtuvo una financiación de 10 millones de dólares para abordar el desafío de transferir habilidades del entorno virtual al mundo real en la robótica. Para lograrlo, la compañía reutiliza una tecnología desarrollada inicialmente para la comercialización de productos en línea.",
+  "importa": "Esta tecnología es fundamental para acortar la brecha entre las pruebas virtuales y la implementación física de robots inteligentes.",
+  "categoria": "Empresas",
+  "hue": 298
+ },
+ {
   "id": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
   "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
   "fecha": "2026-11-06T10:00:00+00:00",
@@ -166,6 +262,18 @@
   "importa": "Demuestra la transición de los robots humanoides desde los laboratorios hacia servicios comerciales accesibles al público.",
   "categoria": "Herramientas",
   "hue": 66
+ },
+ {
+  "id": "https://openai.com/index/partnering-with-hacktron",
+  "link": "https://openai.com/index/partnering-with-hacktron",
+  "fecha": "2026-11-06T08:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "OpenAI se alía con Hacktron para reforzar la seguridad de sus sistemas de IA",
+  "resumen": "La compañía de inteligencia artificial estableció una alianza estratégica con Hacktron con el objetivo de detectar fallas de seguridad. Esta colaboración busca examinar las conexiones con plataformas externas y robustecer las defensas de sus tecnologías más avanzadas.",
+  "importa": "Es fundamental porque garantiza mayor seguridad y confiabilidad frente a posibles amenazas en el desarrollo de sistemas avanzados.",
+  "categoria": "Empresas",
+  "hue": 0
  },
  {
   "id": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -214,6 +322,18 @@
   "importa": "Permite medir con mayor precisión el rendimiento de la IA en acentos y dialectos menos representados a nivel global.",
   "categoria": "Investigación",
   "hue": 134
+ },
+ {
+  "id": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "fecha": "2026-11-06T00:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "OpenAI presenta BioBasicsBench para evaluar agentes de IA en ciencia de laboratorio",
+  "resumen": "La compañía tecnológica desarrolló una nueva herramienta de evaluación con cien pruebas prácticas. El sistema mide la capacidad de los agentes artificiales para procesar datos experimentales crudos y resolver tareas científicas cotidianas.",
+  "importa": "Esto importa porque facilita medir el avance de la inteligencia artificial en la automatización de procesos científicos del mundo real.",
+  "categoria": "Investigación",
+  "hue": 67
  },
  {
   "id": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
@@ -332,6 +452,30 @@
   "titulo": "Claude ahora se conecta a cuentas bancarias para gestionar finanzas personales",
   "resumen": "La empresa Anthropic introdujo una función en su asistente Claude que permite vincularlo directamente con cuentas bancarias y tarjetas mediante la plataforma Plaid. De esta forma, los usuarios pueden consultar en lenguaje natural sobre sus gastos y recibir resúmenes detallados de su economía.",
   "importa": "Representa un avance significativo en la integración de la inteligencia artificial con datos financieros sensibles de los usuarios.",
+  "categoria": "Herramientas",
+  "hue": 99
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+  "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+  "fecha": "2026-11-05T18:00:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Claude incorpora una herramienta para analizar finanzas personales",
+  "resumen": "El asistente de Anthropic sumó la capacidad de conectar cuentas bancarias y de tarjetas mediante la plataforma Plaid. De este modo, los usuarios pueden hacerle preguntas directas al chat sobre sus consumos y gastos diarios.",
+  "importa": "Demuestra la expansión de los asistentes virtuales hacia la gestión de datos bancarios sensibles y la vida cotidiana.",
+  "categoria": "Herramientas",
+  "hue": 156
+ },
+ {
+  "id": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "fecha": "2026-11-05T17:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "Universidades australianas integran ChatGPT para formar graduados expertos en IA",
+  "resumen": "Diversas instituciones educativas en Australia están ampliando el acceso a ChatGPT y sumando la inteligencia artificial a sus aulas. El objetivo es preparar de manera directa a los estudiantes para los desafíos del mercado laboral actual.",
+  "importa": "Demuestra cómo la educación superior se adapta formalmente para incorporar la tecnología en los procesos de enseñanza.",
   "categoria": "Herramientas",
   "hue": 99
  },
