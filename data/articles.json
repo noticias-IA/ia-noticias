@@ -1,5 +1,65 @@
 [
  {
+  "id": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+  "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+  "fecha": "2026-11-09T05:26:29+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Investigan al CEO de Nvidia por un posible vínculo con el espionaje chino",
+  "resumen": "El directorio de Nvidia abrió una investigación sobre Jensen Huang debido a su relación con una persona sospechada de espionaje en China. Especialistas de la Universidad de Yale estiman que las probabilidades de que abandone su cargo están divididas equitativamente.",
+  "importa": "Este conflicto pone en vilo el liderazgo de la empresa más influyente en el desarrollo de hardware para inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 68
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+  "fecha": "2026-11-08T22:54:50+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Nvidia investiga al CEO Jensen Huang por un posible vínculo con el gobierno chino",
+  "resumen": "La junta directiva de Nvidia abrió una investigación formal sobre el director ejecutivo Jensen Huang debido a su relación con Alice Huang, una ejecutiva vinculada al gobierno de China. Tras el anuncio, el propio CEO envió un comunicado interno a los empleados para reconocer el vínculo.",
+  "importa": "El caso involucra al máximo líder del principal fabricante mundial de chips para inteligencia artificial en una potencial controversia de seguridad y geopolítica.",
+  "categoria": "Empresas",
+  "hue": 213
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+  "fecha": "2026-11-08T20:22:39+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Nvidia investiga vínculos de su CEO con una presunta espía china",
+  "resumen": "La junta directiva de Nvidia puso en marcha una pesquisa independiente para examinar los nexos entre el director ejecutivo, Jensen Huang, y Alice Huang. La ejecutiva de Megaspeed está señalada de haber sido reclutada por los servicios de inteligencia de China para infiltrarse en la compañía tecnológica.",
+  "importa": "El caso pone en riesgo la seguridad nacional y la estabilidad operativa de uno de los fabricantes de hardware de inteligencia artificial más influyentes del mundo.",
+  "categoria": "Empresas",
+  "hue": 52
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "fecha": "2026-11-08T19:18:19+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Apple acelera el desarrollo de Siri para competir con los nuevos agentes de IA",
+  "resumen": "La directiva de Apple presiona a su división de inteligencia artificial para adelantar el lanzamiento de una versión avanzada de Siri. El objetivo es transformar al asistente en un agente autónomo capaz de competir de igual a igual con las propuestas de OpenAI y Meta.",
+  "importa": "Esta decisión demuestra que la compañía busca recuperar terreno en la carrera de los agentes virtuales inteligentes.",
+  "categoria": "Empresas",
+  "hue": 94
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+  "fecha": "2026-11-08T17:23:19+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Demandan a Suno por usar ilegalmente música de Elvis Presley y Eminem",
+  "resumen": "Nuevos propietarios de derechos musicales iniciaron acciones legales contra la plataforma de inteligencia artificial Suno. La demanda acusa a la empresa de generar ilegalmente canciones y letras que imitan el estilo de reconocidos artistas como Elvis Presley y Eminem.",
+  "importa": "Este conflicto judicial marca un nuevo precedente en la disputa sobre los derechos de autor y el entrenamiento de modelos de inteligencia artificial con material protegido.",
+  "categoria": "Empresas",
+  "hue": 39
+ },
+ {
   "id": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
   "fecha": "2026-11-07T21:17:08+00:00",
