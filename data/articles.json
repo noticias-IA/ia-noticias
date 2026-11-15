@@ -1,5 +1,41 @@
 [
  {
+  "id": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+  "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+  "fecha": "2026-11-15T00:08:07+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Crisis en Nvidia: la salida de su jefe de seguridad y los riesgos corporativos",
+  "resumen": "El responsable de seguridad de Nvidia abandonó su cargo de forma discreta en agosto, en medio de cuestionamientos sobre los vínculos del director ejecutivo. Expertos señalan que los equipos de seguridad tradicionales no están preparados para detectar este tipo de filtraciones de información.",
+  "importa": "Este caso expone las vulnerabilidades de seguridad y gobernanza en las principales empresas tecnológicas globales.",
+  "categoria": "Empresas",
+  "hue": 18
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+  "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+  "fecha": "2026-11-14T21:41:22+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Elon Musk y otros líderes piden a Nvidia que restituya a Jensen Huang",
+  "resumen": "Una petición impulsada por reconocidas figuras del sector tecnológico, entre ellas Elon Musk, sumó más de 115.000 firmas este fin de semana. El objetivo del documento es solicitarle a Nvidia la reincorporación de su CEO, Jensen Huang. Hasta el momento, la empresa no ha emitido declaraciones oficiales al respecto.",
+  "importa": "El pedido refleja la enorme influencia y el liderazgo clave que Huang ejerce en el desarrollo global de la inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 74
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "fecha": "2026-11-14T17:30:00+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "El cementerio de la IA: proyectos y startups que fracasaron",
+  "resumen": "Un nuevo registro detalla los proyectos de inteligencia artificial más sonados que no lograron cumplir con las expectativas del mercado o debieron cerrar. El listado incluye desde los persistentes retrasos en el asistente Siri de Apple hasta el fallido intento de OpenAI por lanzar una superaplicación.",
+  "importa": "Permite analizar las causas del fracaso en un sector vertiginoso donde la alta inversión no garantiza el éxito comercial.",
+  "categoria": "Empresas",
+  "hue": 349
+ },
+ {
   "id": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
   "fecha": "2026-11-14T15:00:00+00:00",
@@ -226,6 +262,54 @@
   "importa": "Este proyecto pone a prueba la viabilidad de nuevos esquemas de financiación para sostener el crecimiento exponencial de la infraestructura de IA.",
   "categoria": "Empresas",
   "hue": 102
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+  "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+  "fecha": "2026-11-12T20:16:24+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "Nvidia admite en privado que puede rastrear sus chips para evitar el contrabando",
+  "resumen": "Representantes de Nvidia confirmaron a un legislador de Estados Unidos que es técnicamente viable implementar medidas para rastrear sus semiconductores y frenar el contrabando. Esta revelación contradice las afirmaciones de un grupo industrial que había calificado la propuesta como impracticable.",
+  "importa": "Este avance tecnológico en la trazabilidad de los procesadores podría cambiar las reglas del mercado global y la fiscalización del hardware de IA.",
+  "categoria": "Empresas",
+  "hue": 251
+ },
+ {
+  "id": "https://openai.com/business/customer-stories/amplitude",
+  "link": "https://openai.com/business/customer-stories/amplitude",
+  "fecha": "2026-11-12T20:00:00+00:00",
+  "fuente": "OpenAI",
+  "imagen": "",
+  "titulo": "Amplitude automatiza su desarrollo de software con OpenAI",
+  "resumen": "La compañía Amplitude implementó un agente inteligente desarrollado con la tecnología de OpenAI para optimizar su ciclo operativo. El sistema detecta nuevas oportunidades de desarrollo, asiste en la programación y evalúa los resultados de forma automatizada.",
+  "importa": "Demuestra cómo la integración de agentes de IA permite a las empresas reducir drásticamente los tiempos de lanzamiento de sus productos.",
+  "categoria": "Empresas",
+  "hue": 182
+ },
+ {
+  "id": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+  "fecha": "2026-11-12T19:42:40+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Un investigador de Google admitió que sus agentes de IA no descubrieron ruinas mayas",
+  "resumen": "Un empleado de Google aseguró haber hallado un yacimiento arqueológico en México utilizando sistemas de inteligencia artificial. Sin embargo, arqueólogos y expertos señalaron rápidamente que el lugar ya había sido documentado en una publicación científica el año pasado.",
+  "importa": "El episodio expone los riesgos de sobreestimar las capacidades de la IA y la necesidad de verificar con rigor científico sus supuestos hallazgos.",
+  "categoria": "Investigación",
+  "hue": 356
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+  "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+  "fecha": "2026-11-12T19:27:45+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Google mejora su buscador con Gemini 4 Hydrogen",
+  "resumen": "Google actualizó su motor de búsqueda para procesar consultas complejas de forma más eficiente. La nueva modalidad impulsada por inteligencia artificial ofrece respuestas visuales más completas y enlaces relevantes.",
+  "importa": "Esta mejora redefine la experiencia de búsqueda diaria al integrar modelos de lenguaje avanzados para resolver preguntas difíciles.",
+  "categoria": "Modelos",
+  "hue": 148
  },
  {
   "id": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
