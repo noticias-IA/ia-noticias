@@ -1,5 +1,53 @@
 [
  {
+  "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "fecha": "2026-11-26T11:37:17+00:00",
+  "fuente": "Hugging Face",
+  "imagen": "",
+  "titulo": "Hugging Face lanza un panel para medir el rendimiento de IA en hardware AMD",
+  "resumen": "La plataforma presentó un nuevo espacio interactivo diseñado para evaluar la velocidad y eficiencia de ejecución en procesadores y tarjetas gráficas de AMD. Esta herramienta facilita el análisis del rendimiento al correr modelos de lenguaje mediante la librería optimizada.",
+  "importa": "Facilita la optimización de hardware accesible para ejecutar inteligencia artificial de manera local.",
+  "categoria": "Herramientas",
+  "hue": 303
+ },
+ {
+  "id": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "fecha": "2026-11-26T09:54:40+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Fiscales de EE. UU. frenan la venta de chats de usuarios en Character.AI",
+  "resumen": "Un grupo de 42 fiscales generales estatales busca impedir que la plataforma de inteligencia artificial comercialice historiales de conversación privados. La medida surge en medio del proceso de bancarrota de la compañía, ante el riesgo de que se expongan datos de millones de cuentas estadounidenses.",
+  "importa": "Es crucial porque protege la privacidad de millones de usuarios frente a la comercialización de información personal altamente sensible durante procesos de quiebra corporativa.",
+  "categoria": "Regulación",
+  "hue": 327
+ },
+ {
+  "id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "fecha": "2026-11-26T05:05:36+00:00",
+  "fuente": "Hugging Face",
+  "imagen": "",
+  "titulo": "Hugging Face impulsa el desarrollo con el modelo Nemotron 3.5 Parse",
+  "resumen": "La plataforma introduce nuevas capacidades basadas en el modelo Nemotron 3.5 Parse de Nvidia. La iniciativa incluye datos abiertos, opciones de ajuste fino y optimizaciones para lograr inferencias mucho más veloces.",
+  "importa": "Facilita a los desarrolladores la implementación y personalización de modelos avanzados de lenguaje con mayor eficiencia.",
+  "categoria": "Modelos",
+  "hue": 221
+ },
+ {
+  "id": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+  "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+  "fecha": "2026-11-25T21:51:26+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Google patenta un sistema de videos generados por inteligencia artificial",
+  "resumen": "Google solicitó la patente para una plataforma capaz de armar transmisiones personalizadas con videos y publicidades creadas mediante inteligencia artificial a partir de los datos del usuario. Aunque la solicitud inicial fue rechazada, la compañía podría presentar una versión corregida en el futuro.",
+  "importa": "Anticipa un escenario donde el entretenimiento audiovisual y la publicidad masiva podrían ser completamente automatizados por la tecnología.",
+  "categoria": "Empresas",
+  "hue": 206
+ },
+ {
   "id": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
   "fecha": "2026-11-25T20:03:27+00:00",
@@ -34,6 +82,30 @@
   "importa": "Este debate expone las tensiones éticas y estratégicas entre los líderes del sector sobre el grado de autonomía que deben tener los sistemas avanzados.",
   "categoria": "Empresas",
   "hue": 290
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+  "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+  "fecha": "2026-11-25T18:11:46+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Nueva York prohíbe juguetes con inteligencia artificial por fallas de seguridad",
+  "resumen": "La ciudad estadounidense prohibió la venta de juguetes infantiles equipados con chatbots de inteligencia artificial durante cinco años. La medida surge tras un estudio que demostró graves problemas de seguridad, acceso a contenido inadecuado y riesgos para el desarrollo emocional de los menores.",
+  "importa": "Establece un precedente regulatorio estricto sobre la seguridad y el impacto psicológico de la tecnología aplicada a la infancia.",
+  "categoria": "Regulación",
+  "hue": 51
+ },
+ {
+  "id": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "fecha": "2026-11-25T17:44:51+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "La FCC autoriza a SpaceX a lanzar un millón de satélites con IA al espacio",
+  "resumen": "La Comisión Federal de Comunicaciones de Estados Unidos aprobó el plan de la empresa de Elon Musk para desplegar satélites equipados con chips de inteligencia artificial. Esta iniciativa, denominada Starmind, busca posicionar centros de datos directamente en órbita terrestre.",
+  "importa": "Representa un paso histórico al ser la primera autorización oficial para llevar infraestructura masiva de IA al espacio, marcando el inicio de una nueva carrera tecnológica.",
+  "categoria": "Empresas",
+  "hue": 294
  },
  {
   "id": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
@@ -118,6 +190,30 @@
   "importa": "Es crucial porque pone bajo lupa la transparencia comercial y el control de exportaciones de la empresa líder en hardware para inteligencia artificial.",
   "categoria": "Empresas",
   "hue": 313
+ },
+ {
+  "id": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+  "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+  "fecha": "2026-11-25T10:00:00+00:00",
+  "fuente": "MIT Technology Review",
+  "imagen": "",
+  "titulo": "La inteligencia artificial desborda el sistema de registros públicos en EE. UU.",
+  "resumen": "Los pedidos masivos de información gubernamental generados mediante herramientas automatizadas están colapsando a las pequeñas oficinas administrativas estadounidenses. Funcionarios locales se ven abrumados al intentar gestionar un volumen sin precedentes de solicitudes de transparencia impulsadas por la tecnología.",
+  "importa": "Refleja cómo la automatización masiva puede paralizar la burocracia estatal diseñada para procesos manuales.",
+  "categoria": "Regulación",
+  "hue": 149
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "fecha": "2026-11-25T00:12:02+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Críticas a Nvidia: advierten riesgos legales y geopolíticos",
+  "resumen": "Un académico de la Universidad de Yale señaló que el regreso de Jensen Huang a la dirección de Nvidia podría generar graves conflictos legales para sus directivos. Además, cuestionó el impacto de la compañía en la industria estadounidense debido a la presunta filtración de chips avanzados hacia rivales geopolíticos.",
+  "importa": "El debate pone bajo la lupa la responsabilidad corporativa de los gigantes tecnológicos y su rol estratégico en la seguridad nacional de Estados Unidos.",
+  "categoria": "Empresas",
+  "hue": 155
  },
  {
   "id": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
@@ -4702,101 +4798,5 @@
   "importa": "El movimiento muestra la intención de los grandes laboratorios de alinear sus objetivos comerciales con compromisos éticos a largo plazo frente al avance del sector.",
   "categoria": "Empresas",
   "hue": 104
- },
- {
-  "id": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-  "fecha": "2026-10-18T18:28:10+00:00",
-  "fuente": "The Verge",
-  "imagen": "",
-  "titulo": "Detienen a una mujer en Filadelfia por bloquear el paso a un robot de entregas",
-  "resumen": "Una residente de Filadelfia fue arrestada e imputada por desorden público tras impedir el avance de un robot autónomo de reparto perteneciente a Uber. La acusada declaró que bloqueaba estos dispositivos como medida de protesta ante la pérdida de puestos de trabajo humanos frente a las máquinas.",
-  "importa": "El hecho ilustra la creciente conflictividad social que suscita la automatización y el reemplazo de mano de obra en las ciudades.",
-  "categoria": "Empresas",
-  "hue": 65
- },
- {
-  "id": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-  "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-  "fecha": "2026-10-18T16:30:00+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Disney planea incorporar a la mayor parte del equipo de Character.AI",
-  "resumen": "Disney alcanzó un acuerdo preliminar para contratar a la gran mayoría del personal de la startup de chatbots Character.AI, y la mayoría de los empleados convocados ya aceptaron la propuesta. Sin embargo, la operación se estructuró como una oferta inicial de referencia, por lo que otra compañía aún podría superarla antes de que se cierre. Este movimiento se da en medio de las reestructuraciones y transferencias de talento que atraviesa la firma de inteligencia artificial.",
-  "importa": "Demuestra la urgencia de los gigantes del entretenimiento tradicional por captar talento especializado para desarrollar sus propios entornos y personajes impulsados por inteligencia artificial.",
-  "categoria": "Empresas",
-  "hue": 260
- },
- {
-  "id": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-  "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-  "fecha": "2026-10-17T21:31:32+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Meta modificó sus términos tras reclamos por la recolección de datos para IA",
-  "resumen": "Meta dio marcha atrás y retiró una cláusula de sus condiciones de uso que sugería un raspado web masivo para alimentar sus sistemas. La decisión busca aplacar las quejas de creadores y propietarios de sitios web que temían el uso indiscriminado de su contenido. Desde la compañía sostienen que esta corrección no modifica la forma en que sus herramientas rastrean la red habitualmente.",
-  "importa": "El caso evidencia la creciente resistencia de los sitios web frente al entrenamiento de modelos de inteligencia artificial sin consentimiento explícito.",
-  "categoria": "Empresas",
-  "hue": 22
- },
- {
-  "id": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-  "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-  "fecha": "2026-10-17T20:21:19+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Anthropic reorganiza su equipo: más talento sénior y mayor tiempo en reuniones",
-  "resumen": "Durante el último año, la estructura laboral de Anthropic experimentó una profunda transformación interna. La firma redujo su proporción de empleados novatos en favor de perfiles de mayor trayectoria, lo que también derivó en un aumento del tiempo dedicado a reuniones y coordinación.",
-  "importa": "Refleja cómo el vertiginoso crecimiento de los laboratorios líderes de IA los empuja a adoptar dinámicas corporativas más complejas y maduras.",
-  "categoria": "Empresas",
-  "hue": 152
- },
- {
-  "id": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-  "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-  "fecha": "2026-10-17T18:48:08+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Replit reemplaza a Anthropic por OpenAI como proveedor de IA por defecto",
-  "resumen": "La plataforma de programación Replit anunció que OpenAI pasará a ser su opción predeterminada de inteligencia artificial en lugar de Anthropic. A pesar de este cambio de prioridad, los usuarios del servicio continuarán teniendo acceso a los modelos Claude.",
-  "importa": "El movimiento refleja la fuerte disputa comercial entre los gigantes de la IA por dominar la infraestructura de las herramientas de desarrollo de software.",
-  "categoria": "Empresas",
-  "hue": 49
- },
- {
-  "id": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-  "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-  "fecha": "2026-10-17T15:04:36+00:00",
-  "fuente": "The Verge",
-  "imagen": "",
-  "titulo": "Meta modifica sus condiciones y no usará sitios de noticias para entrenar su IA",
-  "resumen": "Tras recibir fuertes críticas, Meta actualizó sus términos comerciales para dar de baja una cláusula polémica. La redacción previa sugería que la compañía podía extraer información de páginas web externas, incluidos medios informativos, para alimentar sus modelos. Con esta modificación, la tecnológica busca frenar el descontento de editores y creadores de contenido.",
-  "importa": "El caso evidencia la creciente resistencia de los medios frente a las empresas tecnológicas que utilizan material ajeno sin autorización para desarrollar inteligencia artificial.",
-  "categoria": "Empresas",
-  "hue": 359
- },
- {
-  "id": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-  "fecha": "2026-10-17T13:00:00+00:00",
-  "fuente": "The Verge",
-  "imagen": "",
-  "titulo": "Los sitios web comienzan a bloquear el acceso a los agentes autónomos de IA",
-  "resumen": "Diversas plataformas de internet están implementando restricciones para impedir que los agentes de inteligencia artificial naveguen y operen en sus páginas. Aunque gigantes como OpenAI, Google y Meta prometen herramientas capaces de reservar turnos o hacer compras de forma autónoma, la resistencia de los desarrolladores web amenaza con frenar su avance.",
-  "importa": "El bloqueo masivo pone en riesgo la utilidad real de los agentes autónomos, cuya propuesta de valor depende del libre acceso a los servicios en línea.",
-  "categoria": "Herramientas",
-  "hue": 50
- },
- {
-  "id": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-  "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-  "fecha": "2026-10-16T21:22:28+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Replit deja de trabajar con Anthropic por cuestiones de costos",
-  "resumen": "El director ejecutivo de Replit confirmó que la plataforma de desarrollo dio por terminada su relación comercial con Anthropic. La decisión respondió a diversos factores, entre los que destacan las elevadas tarifas del proveedor de IA. Aunque Replit había anunciado una alianza con OpenAI en agosto, hasta ahora no se conocía la desvinculación con los creadores de Claude.",
-  "importa": "El caso evidencia cómo los costos operativos y la intensa competencia entre desarrolladores de modelos de lenguaje impactan de lleno en las alianzas estratégicas del sector.",
-  "categoria": "Empresas",
-  "hue": 203
  }
 ]
