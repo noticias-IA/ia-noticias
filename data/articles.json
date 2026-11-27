@@ -1,5 +1,17 @@
 [
  {
+  "id": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "fecha": "2026-11-26T20:03:54+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Nvidia frena envíos de chips de IA al Sudeste Asiático por presión de EE. UU.",
+  "resumen": "La compañía tecnológica ordenó a sus socios de fabricación detener temporalmente la entrega de servidores a Malasia, Singapur, Tailandia e Indonesia. Esta medida responde a las nuevas restricciones impuestas por Estados Unidos para evitar que los procesadores avanzados lleguen a territorio chino de forma indirecta.",
+  "importa": "Esto demuestra cómo las políticas comerciales y de seguridad de Estados Unidos impactan en las cadenas globales de suministro para el desarrollo de la inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 175
+ },
+ {
   "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
   "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
   "fecha": "2026-11-26T11:37:17+00:00",
@@ -34,6 +46,18 @@
   "importa": "Facilita a los desarrolladores la implementación y personalización de modelos avanzados de lenguaje con mayor eficiencia.",
   "categoria": "Modelos",
   "hue": 221
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "fecha": "2026-11-25T22:44:32+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "S&P evalúa rebajar la calificación crediticia de Nvidia por riesgos de gobernanza",
+  "resumen": "La agencia S&P Global Ratings analiza disminuir la nota crediticia de Nvidia hasta el nivel AA-. La medida responde a posibles vulnerabilidades vinculadas a la gobernanza corporativa y a la excesiva dependencia de figuras clave en su liderazgo.",
+  "importa": "Esto importa porque una peor calificación crediticia podría encarecer el financiamiento de una de las empresas más influyentes del sector tecnológico actual.",
+  "categoria": "Empresas",
+  "hue": 319
  },
  {
   "id": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
@@ -214,6 +238,78 @@
   "importa": "El debate pone bajo la lupa la responsabilidad corporativa de los gigantes tecnológicos y su rol estratégico en la seguridad nacional de Estados Unidos.",
   "categoria": "Empresas",
   "hue": 155
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+  "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+  "fecha": "2026-11-24T22:27:52+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Jensen Huang descarta un plan de sucesión en Nvidia",
+  "resumen": "El CEO de Nvidia considera que establecer un plan sucesorio genera jerarquías innecesarias dentro de la empresa. Esta postura llama la atención tras evaluar el funcionamiento de la compañía en ausencia de su líder fundador.",
+  "importa": "Define la particular visión de liderazgo y gobernanza en una de las empresas de semiconductores e inteligencia artificial más influyentes del mundo.",
+  "categoria": "Empresas",
+  "hue": 30
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+  "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+  "fecha": "2026-11-24T21:48:27+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Jensen Huang agradece a la Casa Blanca y revela que hace terapia",
+  "resumen": "Durante una reunión interna con su equipo, el director ejecutivo de Nvidia pidió disculpas a sus empleados. Además, expresó su agradecimiento por tener una nueva oportunidad al frente de la compañía.",
+  "importa": "Muestra el lado más personal del líder de la empresa de chips más influyente en el desarrollo actual de la inteligencia artificial.",
+  "categoria": "Empresas",
+  "hue": 54
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+  "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+  "fecha": "2026-11-24T21:33:29+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Los agentes de IA más avanzados fallan en las tareas cotidianas",
+  "resumen": "Un nuevo estudio demuestra que los asistentes personales inteligentes todavía tienen muchas dificultades para resolver tareas diarias de manera confiable. Además, su uso actual conlleva el riesgo de generar nuevos inconvenientes en lugar de solucionarlos.",
+  "importa": "Revela que la tecnología actual aún está lejos de ofrecer una asistencia verdaderamente autónoma y segura para la vida diaria.",
+  "categoria": "Investigación",
+  "hue": 159
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+  "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+  "fecha": "2026-11-24T21:32:38+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Walmart se asocia con Meta para integrar sus ofertas de Black Friday en el agente Muse",
+  "resumen": "La cadena de supermercados Walmart ha implementado una nueva función que permite a los usuarios buscar y adquirir descuentos de Black Friday directamente mediante el agente de inteligencia artificial Muse, desarrollado por Meta. Esta integración busca transformar la experiencia de compra digital a través de interfaces conversacionales.",
+  "importa": "Demuestra la creciente tendencia de incorporar la inteligencia artificial generativa y agentes virtuales en las estrategias de comercio electrónico para captar consumidores.",
+  "categoria": "Empresas",
+  "hue": 33
+ },
+ {
+  "id": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+  "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+  "fecha": "2026-11-24T21:19:52+00:00",
+  "fuente": "TechCrunch",
+  "imagen": "",
+  "titulo": "Maple consigue 5,3 millones de dólares para desarrollar IA con máxima privacidad",
+  "resumen": "La startup Maple ha asegurado una ronda de financiación por 5,3 millones de dólares para crear soluciones de inteligencia artificial enfocadas en la protección de datos. Su tecnología utiliza una arquitectura cifrada que impide que incluso los creadores de la plataforma accedan a la información confidencial de los usuarios.",
+  "importa": "Esta innovación es crucial porque ofrece una capa superior de seguridad y confidencialidad frente a los riesgos habituales de exposición de datos en sistemas automatizados.",
+  "categoria": "Empresas",
+  "hue": 162
+ },
+ {
+  "id": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+  "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+  "fecha": "2026-11-24T20:02:03+00:00",
+  "fuente": "The Verge",
+  "imagen": "",
+  "titulo": "Jensen Huang desmiente que Trump haya influido en su regreso a Nvidia",
+  "resumen": "El director ejecutivo de Nvidia, Jensen Huang, pidió disculpas a los empleados durante su primera reunión general tras retomar su cargo. En el encuentro, el directivo buscó despejar los rumores que sugerían que la Casa Blanca y otros líderes tecnológicos intervinieron para asegurar su reincorporación.",
+  "importa": "Es relevante porque aclara la independencia de la gestión de Nvidia frente a presiones políticas de Estados Unidos.",
+  "categoria": "Empresas",
+  "hue": 201
  },
  {
   "id": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
@@ -4702,101 +4798,5 @@
   "importa": "Confirma el poder de distribución de Meta y su capacidad para fidelizar a los usuarios en un mercado saturado de asistentes de inteligencia artificial.",
   "categoria": "Herramientas",
   "hue": 10
- },
- {
-  "id": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-  "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-  "fecha": "2026-10-20T16:20:06+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "La IA física entra en su era modular en busca de su momento ChatGPT",
-  "resumen": "Amulya Vishwanath, inversora de capital de riesgo y exintegrante de Nvidia, afirmó que la robótica inteligente transita una etapa de ensamblaje de piezas fundamentales. La especialista sostiene que el sector está construyendo la base técnica requerida para lograr una disrupción masiva similar a la que tuvieron los modelos de lenguaje.",
-  "importa": "Anticipa la llegada de un punto de inflexión en el que los robots dotados de inteligencia artificial darán un salto hacia aplicaciones prácticas y cotidianas.",
-  "categoria": "Empresas",
-  "hue": 27
- },
- {
-  "id": "https://huggingface.co/blog/allenai/fairstress",
-  "link": "https://huggingface.co/blog/allenai/fairstress",
-  "fecha": "2026-10-20T16:09:19+00:00",
-  "fuente": "Hugging Face",
-  "imagen": "",
-  "titulo": "FairStress: un nuevo método para evaluar la equidad en las decisiones de los LLM",
-  "resumen": "Investigadores presentaron FairStress, un marco diseñado para analizar a fondo la equidad y los sesgos en modelos de lenguaje masivos durante la toma de decisiones. Esta metodología somete a los sistemas a pruebas rigurosas para detectar fallas que suelen pasar desapercibidas en evaluaciones estándar. El objetivo es obtener mediciones más precisas sobre el comportamiento ético de la tecnología en situaciones complejas.",
-  "importa": "Permite identificar y corregir discriminaciones algorítmicas antes de que estos sistemas se apliquen en áreas críticas de la sociedad.",
-  "categoria": "Investigación",
-  "hue": 199
- },
- {
-  "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-  "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-  "fecha": "2026-10-20T11:00:00+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Otter.ai recauda 320 millones de dólares para expandir su asistente de reuniones",
-  "resumen": "La plataforma de transcripción y asistencia virtual Otter.ai aseguró 320 millones de dólares a través de un fondo especial de General Catalyst. Los recursos se utilizarán sin diluir la participación de los accionistas para impulsar su llegada a empresas, financiar su expansión internacional y acelerar la innovación de sus productos.",
-  "importa": "El movimiento refleja la creciente demanda de capital para escalar herramientas corporativas de productividad basadas en IA sin ceder control accionario.",
-  "categoria": "Empresas",
-  "hue": 74
- },
- {
-  "id": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-  "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-  "fecha": "2026-10-19T19:28:34+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Hackean la herramienta de IA OpenCode y roban claves de API de usuarios",
-  "resumen": "Ciberdelincuentes vulneraron los servidores de OpenCode, un popular asistente de programación de código abierto alternativo a Cursor. Durante el ataque, los intrusos sustrajeron credenciales privadas de los desarrolladores y generaron consumos elevados en sus cuentas de IA. Los administradores también denunciaron que varios modelos comerciales se negaron a auditar el código malicioso debido a sus filtros de seguridad.",
-  "importa": "El caso expone la vulnerabilidad financiera ligada a la gestión de claves de API y cómo las restricciones de seguridad de los modelos pueden entorpecer la respuesta ante incidentes.",
-  "categoria": "Herramientas",
-  "hue": 126
- },
- {
-  "id": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-  "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-  "fecha": "2026-10-19T18:49:04+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "La fundadora de Replika lanza Wabi, un nuevo asistente personal con IA",
-  "resumen": "Eugenia Kuyda, creadora de la reconocida aplicación Replika, presentó su nueva startup denominada Wabi. La plataforma ofrece un asistente de inteligencia artificial personal que ya se encuentra disponible para su descarga de forma gratuita. Con este lanzamiento, la emprendedora materializa una idea que había concebido hace más de una década.",
-  "importa": "Muestra la evolución del mercado de asistentes virtuales hacia modelos más accesibles y personalizados, impulsados por figuras pioneras del sector.",
-  "categoria": "Herramientas",
-  "hue": 135
- },
- {
-  "id": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-  "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-  "fecha": "2026-10-19T18:22:47+00:00",
-  "fuente": "MIT Technology Review",
-  "imagen": "",
-  "titulo": "Diseñar una web ideal para agentes de IA podría perjudicar a los usuarios humanos",
-  "resumen": "La creciente presencia de agentes autónomos de inteligencia artificial está transformando la forma en que se estructuran los sitios web. Adaptar la infraestructura digital para optimizar la navegación de estos sistemas automatizados amenaza con degradar la experiencia de las personas reales. Este cambio plantea tensiones entre el desarrollo técnico enfocado en máquinas y el acceso concebido para los usuarios tradicionales.",
-  "importa": "El avance de los agentes autónomos podría redefinir los estándares de internet y marginar la interacción humana directa con los contenidos online.",
-  "categoria": "Investigación",
-  "hue": 127
- },
- {
-  "id": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-  "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-  "fecha": "2026-10-19T09:08:05+00:00",
-  "fuente": "MIT Technology Review",
-  "imagen": "",
-  "titulo": "Dejan a Claude en una isla virtual sin órdenes y el modelo empieza a 'jugar'",
-  "resumen": "Un equipo de científicos dejó a agentes basados en Claude Opus aislados en un entorno digital durante 30 horas sin asignarles ninguna tarea concreta. Lejos de quedar inactivos, los modelos comenzaron a desplegar conductas exploratorias y recreativas de forma autónoma. El experimento demuestra patrones de comportamiento espontáneo en sistemas avanzados cuando no reciben instrucciones humanas.",
-  "importa": "Resulta fundamental para comprender cómo actúan los agentes inteligentes cuando se les otorga autonomía total y carecen de objetivos explícitos.",
-  "categoria": "Investigación",
-  "hue": 85
- },
- {
-  "id": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-  "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-  "fecha": "2026-10-18T20:37:40+00:00",
-  "fuente": "TechCrunch",
-  "imagen": "",
-  "titulo": "Anthropic destinará el 5% de sus acciones a un fondo de beneficio público",
-  "resumen": "La compañía de inteligencia artificial Anthropic anunció el compromiso de ceder el cinco por ciento de sus acciones a un fondo orientado al bien social. Esta iniciativa busca canalizar parte de las ganancias y del valor que genere la empresa hacia proyectos de impacto positivo para la comunidad.",
-  "importa": "El movimiento muestra la intención de los grandes laboratorios de alinear sus objetivos comerciales con compromisos éticos a largo plazo frente al avance del sector.",
-  "categoria": "Empresas",
-  "hue": 104
  }
 ]
